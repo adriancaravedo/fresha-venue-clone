@@ -19,7 +19,7 @@ export default {
         surface: {
           page: '#ffffff',
           base: '#ffffff',
-          shade100: '#f7f7f7',
+          shade100: '#f5f5f5',
           shade200: '#f2f2f2',
           shade300: '#e5e5e5',
           avatar: '#f0f0ff',

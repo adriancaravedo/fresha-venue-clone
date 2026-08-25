@@ -548,7 +548,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "232"
+     "reviews": "232",
+     "variantId": "15817265",
+     "durationMinutes": 10
     },
     {
      "id": "s:13658267",
@@ -567,7 +569,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "209"
+     "reviews": "209",
+     "variantId": "15794617",
+     "durationMinutes": 30
     },
     {
      "id": "s:15548067",
@@ -586,7 +590,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "164"
+     "reviews": "164",
+     "variantId": "17932837",
+     "durationMinutes": 50
     },
     {
      "id": "s:13665329",
@@ -605,7 +611,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "107"
+     "reviews": "107",
+     "variantId": "15802925",
+     "durationMinutes": 75
     }
    ]
   },
@@ -630,7 +638,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23194659",
+     "durationMinutes": 65
     },
     {
      "id": "s:19881119",
@@ -649,7 +659,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22812074",
+     "durationMinutes": 40
     },
     {
      "id": "s:13658264",
@@ -668,7 +680,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794611",
+     "durationMinutes": 60
     },
     {
      "id": "s:19414612",
@@ -687,7 +701,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22270877",
+     "durationMinutes": 55
     },
     {
      "id": "s:13658203",
@@ -706,7 +722,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "53"
+     "reviews": "53",
+     "variantId": "15794544",
+     "durationMinutes": 75
     },
     {
      "id": "s:13658207",
@@ -725,7 +743,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "7"
+     "reviews": "7",
+     "variantId": "15794548",
+     "durationMinutes": 105
     },
     {
      "id": "s:13658295",
@@ -744,7 +764,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794645",
+     "durationMinutes": 285
     },
     {
      "id": "s:14876868",
@@ -763,7 +785,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "17173764",
+     "durationMinutes": 20
     },
     {
      "id": "s:13658253",
@@ -782,7 +806,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794599",
+     "durationMinutes": 75
     },
     {
      "id": "s:13658239",
@@ -801,7 +827,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "7"
+     "reviews": "7",
+     "variantId": "15794584",
+     "durationMinutes": 70
     },
     {
      "id": "s:18161022",
@@ -820,7 +848,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "9"
+     "reviews": "9",
+     "variantId": "20973688",
+     "durationMinutes": 10
     },
     {
      "id": "s:20220740",
@@ -839,7 +869,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23194829",
+     "durationMinutes": 35
     }
    ]
   },
@@ -864,7 +896,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22851630",
+     "durationMinutes": 360
     },
     {
      "id": "s:13658214",
@@ -883,7 +917,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794556",
+     "durationMinutes": 90
     },
     {
      "id": "s:13658234",
@@ -902,7 +938,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "31"
+     "reviews": "31",
+     "variantId": "15794579",
+     "durationMinutes": 120
     },
     {
      "id": "s:13658261",
@@ -921,7 +959,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "14"
+     "reviews": "14",
+     "variantId": "15794608",
+     "durationMinutes": 105
     },
     {
      "id": "s:13658233",
@@ -940,7 +980,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "20"
+     "reviews": "20",
+     "variantId": "15794578",
+     "durationMinutes": 75
     },
     {
      "id": "s:13658238",
@@ -959,7 +1001,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794583",
+     "durationMinutes": 135
     },
     {
      "id": "s:13658257",
@@ -978,7 +1022,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15794604",
+     "durationMinutes": 75
     },
     {
      "id": "s:13658249",
@@ -997,7 +1043,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "19"
+     "reviews": "19",
+     "variantId": "15794594",
+     "durationMinutes": 30
     },
     {
      "id": "s:19306207",
@@ -1016,7 +1064,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "32"
+     "reviews": "32",
+     "variantId": "22144416",
+     "durationMinutes": 30
     },
     {
      "id": "s:20588032",
@@ -1035,7 +1085,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "9"
+     "reviews": "9",
+     "variantId": "23609430",
+     "durationMinutes": 30
     }
    ]
   },
@@ -1060,7 +1112,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24037772",
+     "durationMinutes": 30
     },
     {
      "id": "s:20966425",
@@ -1079,7 +1133,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24037756",
+     "durationMinutes": 60
     },
     {
      "id": "s:20966398",
@@ -1098,7 +1154,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24037727",
+     "durationMinutes": 35
     }
    ]
   },
@@ -1123,7 +1181,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "3"
+     "reviews": "3",
+     "variantId": "15788989",
+     "durationMinutes": 10
     },
     {
      "id": "s:13653275",
@@ -1142,7 +1202,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "17"
+     "reviews": "17",
+     "variantId": "15788972",
+     "durationMinutes": 40
     },
     {
      "id": "s:13653249",
@@ -1161,7 +1223,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "136"
+     "reviews": "136",
+     "variantId": "15788943",
+     "durationMinutes": 60
     },
     {
      "id": "s:13653296",
@@ -1180,7 +1244,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15788993",
+     "durationMinutes": 30
     },
     {
      "id": "s:13653287",
@@ -1199,7 +1265,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15788984",
+     "durationMinutes": 30
     }
    ]
   },
@@ -1224,7 +1292,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "54"
+     "reviews": "54",
+     "variantId": "15794458",
+     "durationMinutes": 45
     },
     {
      "id": "s:18136041",
@@ -1243,7 +1313,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "116"
+     "reviews": "116",
+     "variantId": "20944212",
+     "durationMinutes": 50
     },
     {
      "id": "s:18136045",
@@ -1262,7 +1334,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "58"
+     "reviews": "58",
+     "variantId": "20944216",
+     "durationMinutes": 60
     },
     {
      "id": "s:13658154",
@@ -1281,7 +1355,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "10"
+     "reviews": "10",
+     "variantId": "15794481",
+     "durationMinutes": 10
     },
     {
      "id": "s:16384325",
@@ -1300,7 +1376,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "19"
+     "reviews": "19",
+     "variantId": "18899650",
+     "durationMinutes": 20
     },
     {
      "id": "s:13658188",
@@ -1319,7 +1397,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794529",
+     "durationMinutes": 10
     },
     {
      "id": "s:13658140",
@@ -1338,7 +1418,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "23"
+     "reviews": "23",
+     "variantId": "15794467",
+     "durationMinutes": 15
     },
     {
      "id": "s:13658193",
@@ -1357,7 +1439,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "3"
+     "reviews": "3",
+     "variantId": "15794534",
+     "durationMinutes": 30
     },
     {
      "id": "s:19673995",
@@ -1376,7 +1460,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22570453",
+     "durationMinutes": 60
     },
     {
      "id": "s:13658171",
@@ -1395,7 +1481,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794508",
+     "durationMinutes": 60
     },
     {
      "id": "s:19422794",
@@ -1414,7 +1502,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22280419",
+     "durationMinutes": 20
     },
     {
      "id": "s:19700183",
@@ -1433,7 +1523,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "22601209",
+     "durationMinutes": 20
     }
    ]
   },
@@ -1458,7 +1550,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24373245",
+     "durationMinutes": 240
     },
     {
      "id": "s:21262613",
@@ -1477,7 +1571,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24373271",
+     "durationMinutes": 120
     },
     {
      "id": "s:21262627",
@@ -1496,7 +1592,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24373293",
+     "durationMinutes": 180
     },
     {
      "id": "s:13658407",
@@ -1515,7 +1613,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794771",
+     "durationMinutes": 150
     },
     {
      "id": "s:13658421",
@@ -1534,7 +1634,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794787",
+     "durationMinutes": 45
     },
     {
      "id": "s:13658434",
@@ -1553,7 +1655,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "5"
+     "reviews": "5",
+     "variantId": "15794802",
+     "durationMinutes": 45
     },
     {
      "id": "s:13658559",
@@ -1572,7 +1676,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794948",
+     "durationMinutes": 15
     },
     {
      "id": "s:13658431",
@@ -1591,7 +1697,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794799",
+     "durationMinutes": 15
     },
     {
      "id": "s:13658440",
@@ -1610,7 +1718,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794813",
+     "durationMinutes": 60
     },
     {
      "id": "s:13658512",
@@ -1629,7 +1739,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794893",
+     "durationMinutes": 45
     },
     {
      "id": "s:20646474",
@@ -1648,7 +1760,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23675511",
+     "durationMinutes": 60
     },
     {
      "id": "s:20646438",
@@ -1667,7 +1781,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23675475",
+     "durationMinutes": 90
     }
    ]
   },
@@ -1692,7 +1808,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24357575",
+     "durationMinutes": 60
     },
     {
      "id": "s:20966170",
@@ -1711,7 +1829,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24037483",
+     "durationMinutes": 80
     },
     {
      "id": "s:20557258",
@@ -1730,7 +1850,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23574851",
+     "durationMinutes": 60
     },
     {
      "id": "s:18171064",
@@ -1749,7 +1871,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "20985740",
+     "durationMinutes": 120
     },
     {
      "id": "s:18136117",
@@ -1768,7 +1892,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "20944310",
+     "durationMinutes": 180
     },
     {
      "id": "s:13666045",
@@ -1787,7 +1913,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803788",
+     "durationMinutes": 210
     },
     {
      "id": "s:13762293",
@@ -1806,7 +1934,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15913495",
+     "durationMinutes": 150
     },
     {
      "id": "s:13666031",
@@ -1825,7 +1955,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803773",
+     "durationMinutes": 150
     },
     {
      "id": "s:13665518",
@@ -1844,7 +1976,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803140",
+     "durationMinutes": 15
     }
    ]
   },
@@ -1869,7 +2003,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24084956",
+     "durationMinutes": 90
     }
    ]
   },
@@ -1894,7 +2030,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "24"
+     "reviews": "24",
+     "variantId": "15794600",
+     "durationMinutes": 85
     },
     {
      "id": "s:13658232",
@@ -1913,7 +2051,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "14"
+     "reviews": "14",
+     "variantId": "15794577",
+     "durationMinutes": 70
     },
     {
      "id": "s:13658212",
@@ -1932,7 +2072,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "8"
+     "reviews": "8",
+     "variantId": "15794554",
+     "durationMinutes": 70
     }
    ]
   },
@@ -1957,7 +2099,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "209"
+     "reviews": "209",
+     "variantId": "15794617",
+     "durationMinutes": 30
     },
     {
      "id": "s:18136519",
@@ -1976,7 +2120,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "24"
+     "reviews": "24",
+     "variantId": "20944767",
+     "durationMinutes": 35
     },
     {
      "id": "s:15547949",
@@ -1995,7 +2141,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "45"
+     "reviews": "45",
+     "variantId": "17932706",
+     "durationMinutes": 40
     },
     {
      "id": "s:15548067",
@@ -2014,7 +2162,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "164"
+     "reviews": "164",
+     "variantId": "17932837",
+     "durationMinutes": 50
     },
     {
      "id": "s:15547968",
@@ -2033,7 +2183,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "17932726",
+     "durationMinutes": 50
     },
     {
      "id": "s:15548048",
@@ -2052,7 +2204,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "11"
+     "reviews": "11",
+     "variantId": "17932814",
+     "durationMinutes": 55
     },
     {
      "id": "s:13658319",
@@ -2071,7 +2225,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "19"
+     "reviews": "19",
+     "variantId": "15794672",
+     "durationMinutes": 60
     },
     {
      "id": "s:15548006",
@@ -2090,7 +2246,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "3"
+     "reviews": "3",
+     "variantId": "17932768",
+     "durationMinutes": 70
     },
     {
      "id": "s:13658331",
@@ -2109,7 +2267,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "3"
+     "reviews": "3",
+     "variantId": "15794684",
+     "durationMinutes": 90
     },
     {
      "id": "s:13688635",
@@ -2128,7 +2288,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "38"
+     "reviews": "38",
+     "variantId": "15829953",
+     "durationMinutes": 5
     },
     {
      "id": "s:13688614",
@@ -2147,7 +2309,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "11"
+     "reviews": "11",
+     "variantId": "15829927",
+     "durationMinutes": 10
     },
     {
      "id": "s:13658581",
@@ -2166,7 +2330,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794977",
+     "durationMinutes": 10
     }
    ]
   },
@@ -2191,7 +2357,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "45"
+     "reviews": "45",
+     "variantId": "15799040",
+     "durationMinutes": 25
     },
     {
      "id": "s:13662078",
@@ -2210,7 +2378,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "146"
+     "reviews": "146",
+     "variantId": "15799121",
+     "durationMinutes": 45
     },
     {
      "id": "s:13662047",
@@ -2229,7 +2399,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "103"
+     "reviews": "103",
+     "variantId": "15799089",
+     "durationMinutes": 45
     },
     {
      "id": "s:13662499",
@@ -2248,7 +2420,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15799597",
+     "durationMinutes": 50
     },
     {
      "id": "s:13662953",
@@ -2267,7 +2441,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15800116",
+     "durationMinutes": 50
     },
     {
      "id": "s:13706788",
@@ -2286,7 +2462,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "8"
+     "reviews": "8",
+     "variantId": "15850589",
+     "durationMinutes": 20
     },
     {
      "id": "s:13662061",
@@ -2305,7 +2483,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "19"
+     "reviews": "19",
+     "variantId": "15799103",
+     "durationMinutes": 30
     },
     {
      "id": "s:13662000",
@@ -2324,7 +2504,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15799032",
+     "durationMinutes": 15
     },
     {
      "id": "s:13663038",
@@ -2343,7 +2525,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "55"
+     "reviews": "55",
+     "variantId": "15800207",
+     "durationMinutes": 15
     },
     {
      "id": "s:13662507",
@@ -2362,7 +2546,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15799605",
+     "durationMinutes": 10
     },
     {
      "id": "s:13662481",
@@ -2381,7 +2567,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "3"
+     "reviews": "3",
+     "variantId": "15799577",
+     "durationMinutes": 15
     },
     {
      "id": "s:13662035",
@@ -2400,7 +2588,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "35"
+     "reviews": "35",
+     "variantId": "15799076",
+     "durationMinutes": 10
     }
    ]
   },
@@ -2425,7 +2615,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "32"
+     "reviews": "32",
+     "variantId": "22186074",
+     "durationMinutes": 50
     },
     {
      "id": "s:18160931",
@@ -2444,7 +2636,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "20973586",
+     "durationMinutes": 30
     },
     {
      "id": "s:13663479",
@@ -2463,7 +2657,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "112"
+     "reviews": "112",
+     "variantId": "15800686",
+     "durationMinutes": 90
     },
     {
      "id": "s:17136651",
@@ -2482,7 +2678,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "48"
+     "reviews": "48",
+     "variantId": "19770348",
+     "durationMinutes": 70
     },
     {
      "id": "s:13665323",
@@ -2501,7 +2699,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15802919",
+     "durationMinutes": 90
     },
     {
      "id": "s:18136465",
@@ -2520,7 +2720,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "26"
+     "reviews": "26",
+     "variantId": "20944706",
+     "durationMinutes": 90
     },
     {
      "id": "s:13665329",
@@ -2539,7 +2741,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "107"
+     "reviews": "107",
+     "variantId": "15802925",
+     "durationMinutes": 75
     },
     {
      "id": "s:13663790",
@@ -2558,7 +2762,9 @@
       }
      ],
      "rating": "4.6",
-     "reviews": "8"
+     "reviews": "8",
+     "variantId": "15801078",
+     "durationMinutes": 70
     },
     {
      "id": "s:13664114",
@@ -2577,7 +2783,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15801473",
+     "durationMinutes": 60
     },
     {
      "id": "s:13663864",
@@ -2596,7 +2804,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15801160",
+     "durationMinutes": 80
     },
     {
      "id": "s:13677071",
@@ -2615,7 +2825,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15816423",
+     "durationMinutes": 70
     },
     {
      "id": "s:13663836",
@@ -2634,7 +2846,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "40"
+     "reviews": "40",
+     "variantId": "15801131",
+     "durationMinutes": 60
     }
    ]
   },
@@ -2659,7 +2873,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803584",
+     "durationMinutes": 30
     },
     {
      "id": "s:13665983",
@@ -2678,7 +2894,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803716",
+     "durationMinutes": 30
     },
     {
      "id": "s:13665944",
@@ -2697,7 +2915,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15803670",
+     "durationMinutes": 35
     },
     {
      "id": "s:13665923",
@@ -2716,7 +2936,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "7"
+     "reviews": "7",
+     "variantId": "15803638",
+     "durationMinutes": 20
     },
     {
      "id": "s:13665913",
@@ -2735,7 +2957,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "7"
+     "reviews": "7",
+     "variantId": "15803622",
+     "durationMinutes": 10
     }
    ]
   },
@@ -2760,7 +2984,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802544",
+     "durationMinutes": 15
     },
     {
      "id": "s:13664897",
@@ -2779,7 +3005,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802398",
+     "durationMinutes": 15
     },
     {
      "id": "s:13664854",
@@ -2798,7 +3026,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802347",
+     "durationMinutes": 45
     },
     {
      "id": "s:13664699",
@@ -2817,7 +3047,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802157",
+     "durationMinutes": 30
     },
     {
      "id": "s:13664685",
@@ -2836,7 +3068,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802136",
+     "durationMinutes": 60
     },
     {
      "id": "s:13664672",
@@ -2855,7 +3089,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802121",
+     "durationMinutes": 20
     },
     {
      "id": "s:13664642",
@@ -2874,7 +3110,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802088",
+     "durationMinutes": 45
     },
     {
      "id": "s:13664604",
@@ -2893,7 +3131,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802043",
+     "durationMinutes": 30
     },
     {
      "id": "s:13664343",
@@ -2912,7 +3152,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15801732",
+     "durationMinutes": 15
     },
     {
      "id": "s:13664321",
@@ -2931,7 +3173,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "10"
+     "reviews": "10",
+     "variantId": "15801707",
+     "durationMinutes": 15
     },
     {
      "id": "s:13664296",
@@ -2950,7 +3194,9 @@
       }
      ],
      "rating": "5.0",
-     "reviews": "22"
+     "reviews": "22",
+     "variantId": "15801679",
+     "durationMinutes": 15
     }
    ]
   },
@@ -2975,7 +3221,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24124214",
+     "durationMinutes": 30
     },
     {
      "id": "s:13762702",
@@ -2994,7 +3242,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15913966",
+     "durationMinutes": 60
     },
     {
      "id": "s:13762697",
@@ -3013,7 +3263,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15913961",
+     "durationMinutes": 60
     },
     {
      "id": "s:13667596",
@@ -3032,7 +3284,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15805584",
+     "durationMinutes": 60
     }
    ]
   },
@@ -3057,7 +3311,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "27259781",
+     "durationMinutes": 60
     },
     {
      "id": "s:13665296",
@@ -3076,7 +3332,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802890",
+     "durationMinutes": 30
     },
     {
      "id": "s:13665276",
@@ -3095,7 +3353,9 @@
       }
      ],
      "rating": "4.9",
-     "reviews": "17"
+     "reviews": "17",
+     "variantId": "15802868",
+     "durationMinutes": 15
     },
     {
      "id": "s:13663638",
@@ -3114,7 +3374,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15800888",
+     "durationMinutes": 35
     },
     {
      "id": "s:13663627",
@@ -3133,7 +3395,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15800877",
+     "durationMinutes": 30
     },
     {
      "id": "s:13663620",
@@ -3152,7 +3416,9 @@
       }
      ],
      "rating": "4.0",
-     "reviews": "4"
+     "reviews": "4",
+     "variantId": "15800864",
+     "durationMinutes": 60
     }
    ]
   },
@@ -3177,7 +3443,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802684",
+     "durationMinutes": 10
     },
     {
      "id": "s:13665118",
@@ -3196,7 +3464,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802676",
+     "durationMinutes": 75
     },
     {
      "id": "s:13665112",
@@ -3215,7 +3485,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15802663",
+     "durationMinutes": 60
     }
    ]
   },
@@ -3240,7 +3512,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "24084920",
+     "durationMinutes": 120
     }
    ]
   },
@@ -3265,7 +3539,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15918433",
+     "durationMinutes": 25
     }
    ]
   },
@@ -3290,7 +3566,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "23911622",
+     "durationMinutes": 20
     }
    ]
   },
@@ -3315,7 +3593,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15801320",
+     "durationMinutes": 15
     },
     {
      "id": "s:13658556",
@@ -3334,7 +3614,9 @@
       }
      ],
      "rating": null,
-     "reviews": null
+     "reviews": null,
+     "variantId": "15794945",
+     "durationMinutes": 20
     }
    ]
   }

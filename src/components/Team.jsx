@@ -35,13 +35,15 @@ export default function Team({ team, onSelect }) {
                   size={120}
                   className="transition-transform duration-300 group-hover:scale-[1.03]"
                 />
-                <div className="absolute -bottom-2 left-1/2 flex h-[30px] -translate-x-1/2 items-center gap-1 rounded-pill bg-surface-base px-2 shadow-badge">
-                  <span className="sr-only-text">{`${member.rating} rating`}</span>
-                  <StarIcon size={16} className="text-star" />
-                  <span className="text-body-s font-semibold text-fg">
-                    {member.rating.toFixed(1)}
-                  </span>
-                </div>
+                {member.rating != null && (
+                  <div className="absolute -bottom-2 left-1/2 flex h-[30px] -translate-x-1/2 items-center gap-1 rounded-pill bg-surface-base px-2 shadow-badge">
+                    <span className="sr-only-text">{`${member.rating} rating`}</span>
+                    <StarIcon size={16} className="text-star" />
+                    <span className="text-body-s font-semibold text-fg">
+                      {member.rating.toFixed(1)}
+                    </span>
+                  </div>
+                )}
               </div>
 
               <div className="mt-4 flex flex-col gap-0.5">

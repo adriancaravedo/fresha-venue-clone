@@ -1,5 +1,6 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import data from './data/venue.json'
+import { buildBookingUrl, parseOfferItems, useRoute } from './lib/router.js'
 
 import TopBar from './components/TopBar.jsx'
 import StickyNav from './components/StickyNav.jsx'
@@ -12,10 +13,10 @@ import Reviews from './components/Reviews.jsx'
 import Portfolio from './components/Portfolio.jsx'
 import About from './components/About.jsx'
 import BookingSidebar, { MobileBookingBar } from './components/BookingSidebar.jsx'
-import BookingDrawer from './components/BookingDrawer.jsx'
 import NearbyVenues from './components/NearbyVenues.jsx'
 import SeoLinks from './components/SeoLinks.jsx'
 import Footer from './components/Footer.jsx'
+import BookingFlow from './booking/BookingFlow.jsx'
 
 /** Page shell — 1440 max width, 32px gutters, 884 / 40 / 452 split. */
 const Page = ({ className = '', children }) => (
@@ -23,16 +24,18 @@ const Page = ({ className = '', children }) => (
 )
 
 export default function App() {
+  const { path, search, isBooking, navigate } = useRoute()
   const [galleryAt, setGalleryAt] = useState(null)
-  const [cart, setCart] = useState([])
-  const [cartOpen, setCartOpen] = useState(false)
+
+  const basePath = useMemo(() => path.replace(/\/booking\/?$/, '') || '/', [path])
+  const initialServiceIds = useMemo(() => parseOfferItems(search), [search])
 
   const openGallery = useCallback((i) => setGalleryAt(typeof i === 'number' ? i : 0), [])
 
-  const addService = useCallback((service) => {
-    setCart((c) => [...c, service])
-    setCartOpen(true)
-  }, [])
+  const startBooking = useCallback(
+    (service) => navigate(buildBookingUrl(basePath, service ? [service.variantId] : [])),
+    [basePath, navigate],
+  )
 
   const scrollToReviews = () =>
     document.getElementById('reviews-section')?.scrollIntoView({ behavior: 'smooth' })
@@ -48,6 +51,16 @@ export default function App() {
       }
     }
     navigator.clipboard?.writeText(window.location.href)
+  }
+
+  if (isBooking) {
+    return (
+      <BookingFlow
+        data={data}
+        initialServiceIds={initialServiceIds}
+        onExit={() => navigate(basePath)}
+      />
+    )
   }
 
   return (
@@ -81,9 +94,9 @@ export default function App() {
             <Services
               categories={data.serviceCategories}
               serviceCount={data.venue.serviceCount}
-              onBook={addService}
+              onBook={startBooking}
             />
-            <Team team={data.team} onSelect={() => setCartOpen(false)} />
+            <Team team={data.team} onSelect={() => startBooking(null)} />
             <Reviews reviews={data.reviews} venue={data.venue} />
             <Portfolio portfolio={data.portfolio} venueName={data.venue.name} />
             <About
@@ -98,7 +111,7 @@ export default function App() {
             venue={data.venue}
             address={data.address}
             workingTime={data.workingTime}
-            onBook={() => setCartOpen(true)}
+            onBook={() => startBooking(null)}
             onRatingClick={scrollToReviews}
           />
         </Page>
@@ -111,7 +124,7 @@ export default function App() {
       </main>
 
       <Footer />
-      <MobileBookingBar venue={data.venue} onBook={() => setCartOpen(true)} />
+      <MobileBookingBar venue={data.venue} onBook={() => startBooking(null)} />
 
       {galleryAt !== null && (
         <GalleryModal
@@ -121,14 +134,6 @@ export default function App() {
           onClose={() => setGalleryAt(null)}
         />
       )}
-
-      <BookingDrawer
-        open={cartOpen}
-        items={cart}
-        venue={data.venue}
-        onRemove={(i) => setCart((c) => c.filter((_, n) => n !== i))}
-        onClose={() => setCartOpen(false)}
-      />
     </>
   )
 }

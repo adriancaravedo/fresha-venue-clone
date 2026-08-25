@@ -10,7 +10,8 @@ const SIZES = {
 }
 
 const VARIANTS = {
-  primary: 'bg-surface-primary text-fg-onPrimary hover:bg-[#262626] active:bg-[#333]',
+  primary:
+    'bg-surface-primary text-fg-onPrimary hover:bg-[#262626] active:bg-[#333] disabled:bg-[#a6a6a6] disabled:hover:bg-[#a6a6a6]',
   outline:
     'bg-surface-base text-fg shadow-ringSoft hover:bg-surface-hover active:bg-surface-active',
   ghost: 'text-fg hover:bg-surface-hover active:bg-surface-active',
@@ -32,6 +33,7 @@ export default function Button({
         'inline-flex select-none items-center justify-center gap-2 rounded-pill',
         'whitespace-nowrap transition-colors duration-150',
         'focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-fg',
+        'disabled:cursor-default',
         SIZES[size],
         VARIANTS[variant],
         full ? 'w-full' : '',
@@ -55,6 +57,7 @@ export function IconButton({ label, size = 48, className = '', children, ...rest
         'bg-surface-base text-fg transition-colors duration-150',
         'hover:bg-surface-hover active:bg-surface-active',
         'focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-fg',
+        'disabled:cursor-default',
         className,
       ].join(' ')}
       {...rest}
