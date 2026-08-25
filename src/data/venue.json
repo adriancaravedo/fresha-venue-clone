@@ -1,0 +1,4036 @@
+{
+ "venue": {
+  "id": "485648",
+  "name": "Tipsy Salonbar Naples",
+  "slug": "tipsy-salonbar-naples-naples-4229-tamiami-trail-north-q3z134gp",
+  "description": "Our full-service salon caters to all your beauty needs with expertise in hair, nails, and skincare. Operating seven days a week, we offer a comprehensive range of services designed to pamper and rejuvenate. Understanding the value of your time, we provide the convenience of simultaneous hair and nail appointments, ensuring efficiency without compromising on quality. Embark on your journey to enhanced beauty and self-care by scheduling your appointment with us today.",
+  "serviceCount": 177,
+  "rating": "5.0",
+  "ratingValue": 5,
+  "reviewsCount": "1,306",
+  "reviewsCountValue": 1306,
+  "featured": true,
+  "verified": true,
+  "currency": "USD",
+  "contactNumber": "+1 239-529-1729",
+  "businessType": "Beauty Salon",
+  "hasGiftCards": true,
+  "coverImage": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg",
+  "shareLabel": "Hey, I found this venue on Fresha.com, the world's #1 self-care marketplace. Check it out",
+  "links": {
+   "facebookUrl": "https://www.facebook.com/tipsynaples/",
+   "instagramUrl": "https://www.instagram.com/Tipsynaples",
+   "websiteUrl": "https://www.tipsynaples.com/"
+  },
+  "ratingSummary": {
+   "level": "BEST_IN_CLASS",
+   "subtitle": "Based on 1,306 outstanding reviews from clients",
+   "title": "Best in Class",
+   "valueFormatted": "5.0"
+  },
+  "reviewSummary": "Tipsy Salonbar Naples stands out with its exceptional nail services, including gel manicures and Dazzle Dry manicures that leave clients thrilled with the results. Many reviewers praise the meticulous work of the nail technicians, highlighting their attentiveness to detail and the welcoming atmosphere of the salon, which features a fantastic color selection and a friendly staff dedicated to providing a pampering experience."
+ },
+ "address": {
+  "shortFormatted": "4229 Tamiami Trail North, Park Shore, Naples, Florida",
+  "simpleFormatted": "Park Shore, Naples",
+  "directionsUrl": "https://maps.google.com/?daddr=4229%20Tamiami%20Trail%20North%2C%20Naples%2C%2034103%2C%20Florida",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=4229%20Tamiami%20Trail%20North%2C%20Naples%2C%2034103%2C%20Florida",
+  "lat": 26.19784164428711,
+  "lng": -81.80074310302734,
+  "mapImage": "https://api.mapbox.com/styles/v1/mattydyer/cltpzx1v200ah01qwe36zhw6c/static/url-https%3A%2F%2Fimages.fresha.com%2Fb2c-api-gateway-static%2Fuploads%2Fmap-pins%2F8ab05b970a5f2a18_pin-5.0.png(-81.80074310302734,26.19784164428711)/-81.80074310302734,26.19784164428711,13,0/884x472@2x?access_token=pk.eyJ1IjoibWF0dHlkeWVyIiwiYSI6ImNsdmtvdWE0ajF4Mjcya2w5MnFwb3Jvam0ifQ.YP-jDX5s2VDiYSP_HVjb2A",
+  "mapImageMobile": "https://api.mapbox.com/styles/v1/mattydyer/cltpzx1v200ah01qwe36zhw6c/static/url-https%3A%2F%2Fimages.fresha.com%2Fb2c-api-gateway-static%2Fuploads%2Fmap-pins%2F8ab05b970a5f2a18_pin-5.0.png(-81.80074310302734,26.19784164428711)/-81.80074310302734,26.19784164428711,13,0/350x197@2x?access_token=pk.eyJ1IjoibWF0dHlkeWVyIiwiYSI6ImNsdmtvdWE0ajF4Mjcya2w5MnFwb3Jvam0ifQ.YP-jDX5s2VDiYSP_HVjb2A"
+ },
+ "breadcrumbs": [
+  {
+   "name": "Home",
+   "url": "https://www.fresha.com/"
+  },
+  {
+   "name": "Beauty Salons",
+   "url": "https://www.fresha.com/lp/en/bt/beauty-salons"
+  },
+  {
+   "name": "United States",
+   "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/united-states"
+  },
+  {
+   "name": "Bonita Springs",
+   "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs"
+  },
+  {
+   "name": "Naples",
+   "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/naples"
+  },
+  {
+   "name": "Tipsy Salonbar Naples",
+   "url": "https://www.fresha.com/a/tipsy-salonbar-naples-naples-4229-tamiami-trail-north-q3z134gp"
+  }
+ ],
+ "workingTime": {
+  "status": {
+   "name": "Closed",
+   "state": "CLOSED",
+   "stateDetails": "- opens on Tuesday at 9:00 AM"
+  },
+  "days": [
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Monday",
+    "isClosed": false,
+    "isToday": true,
+    "values": [
+     {
+      "value": "9:00 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Tuesday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "9:00 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Wednesday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "9:00 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Thursday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "9:00 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Friday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "9:00 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Saturday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "9:00 AM - 7:00 PM"
+     }
+    ]
+   },
+   {
+    "__typename": "LocationWorkingTimeDay",
+    "dayName": "Sunday",
+    "isClosed": false,
+    "isToday": false,
+    "values": [
+     {
+      "value": "10:00 AM - 5:00 PM"
+     }
+    ]
+   }
+  ],
+  "meta": {
+   "openingHours": [
+    "Mo 09:00-19:30",
+    "Tu 09:00-19:30",
+    "We 09:00-19:30",
+    "Th 09:00-19:30",
+    "Fr 09:00-19:30",
+    "Sa 09:00-19:00",
+    "Su 10:00-17:00"
+   ],
+   "specialOpeningHoursSpecification": null
+  }
+ },
+ "gallery": {
+  "large": [
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Stylish salon chairs in Tipsy Salonbar Naples, Naples, Florida, US, creating a modern and inviting atmosphere.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8I5b[00M}DN-9?GR5NayXtlNGt8nhRPxt-ps.%gxaWCxtt7%1xtW?"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764756/2913c0be-b721-4259-aa6f-a242c6af3cde-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Interior of Tipsy Salonbar Naples showing stylish hair stations, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eBG[.w.SMw4nnOIAn4s;NHoeDiR+oKaKt701W;Rjt7R+9FjYR%s:Rk"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764757/66004528-6257-4abb-b719-1aeda471f80d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Spacious pedicure area at Tipsy Salonbar Naples, showcasing plush chairs in Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eDGutAt7i_s+xZ_3.7niM{Mx~qxv-;NGRj%gg4f,x[WBI;%NI:NatR"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764758/59c5e116-760d-4696-b85e-f2b09e058ee0-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Modern salon interior at Tipsy Salonbar Naples, Naples, Florida, US, featuring sleek hair wash stations and product shelves.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8Gu];~U4.tSo#-3?b9aM{%LR-s8tRWVDi01IUV@?vozbvD%-;xuIT"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764759/b2a2e8e2-3c4c-43b2-a168-e041b11a1a19-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Front view of Tipsy Salonbar Naples, located in Naples, Florida, US, showcasing modern design and inviting entrance.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eZGb@nRPRjR-kC_4a{fkjZf6^,azWVoKf6.8j]V@f+ay.8t7j[j[ae"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764760/19355e3c-709e-4a4d-be34-92749a09a7f2-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Blonde hair styled elegantly at Tipsy Salonbar Naples, Naples, Florida, US. Modern salon interior in the background.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eRHo2lH?0Lx]I9Vr%gVsIotl$*ozt6R*WEx]RPs:ozofaet7oeoLt7"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764761/ff3ce03a-44b6-4868-be6c-0d8929bcb52b-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Blonde hair styled perfectly at Tipsy Salonbar Naples in Naples, Florida, US, showcasing elegant salon expertise.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eCIOLYI95Z~BJD.6?v4nyEMd-;S3ozsmR-M{xaV@ozadafIUM|M{WX"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764762/9378818b-13a7-454d-9a58-9753dab23a93-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Detailed floral nail art at Tipsy Salonbar Naples, Naples, Florida, US, featuring pink and turquoise designs.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eKLN48*J^*pcs*t-yCxarrWT%fr=Rmair@b^W=nhRis;ozi_oyR*af"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764763/d7099980-31eb-46f3-a89d-9aebfef9b33d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Intricate blue and white nail art with floral design at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "ebI;k+t7$_RjIr~BRjxtogRlbba~tRjEoIM{xakCWXR*kDR*oJt7WU"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764764/ea1d5a0e-2022-4581-a4a7-78015e6aef6c-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-large",
+    "alt": "Close-up of styled eyelashes at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eNMPtD-W}?sB9ZS59ZE1-o-po0s:E2E2?HafofoeIoofjZoMofRjfk"
+   }
+  ],
+  "secondary": [
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Stylish salon chairs in Tipsy Salonbar Naples, Naples, Florida, US, creating a modern and inviting atmosphere.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8I5b[00M}DN-9?GR5NayXtlNGt8nhRPxt-ps.%gxaWCxtt7%1xtW?"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764756/2913c0be-b721-4259-aa6f-a242c6af3cde-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Interior of Tipsy Salonbar Naples showing stylish hair stations, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eBG[.w.SMw4nnOIAn4s;NHoeDiR+oKaKt701W;Rjt7R+9FjYR%s:Rk"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764757/66004528-6257-4abb-b719-1aeda471f80d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Spacious pedicure area at Tipsy Salonbar Naples, showcasing plush chairs in Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eDGutAt7i_s+xZ_3.7niM{Mx~qxv-;NGRj%gg4f,x[WBI;%NI:NatR"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764758/59c5e116-760d-4696-b85e-f2b09e058ee0-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Modern salon interior at Tipsy Salonbar Naples, Naples, Florida, US, featuring sleek hair wash stations and product shelves.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8Gu];~U4.tSo#-3?b9aM{%LR-s8tRWVDi01IUV@?vozbvD%-;xuIT"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764759/b2a2e8e2-3c4c-43b2-a168-e041b11a1a19-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Front view of Tipsy Salonbar Naples, located in Naples, Florida, US, showcasing modern design and inviting entrance.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eZGb@nRPRjR-kC_4a{fkjZf6^,azWVoKf6.8j]V@f+ay.8t7j[j[ae"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764760/19355e3c-709e-4a4d-be34-92749a09a7f2-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Blonde hair styled elegantly at Tipsy Salonbar Naples, Naples, Florida, US. Modern salon interior in the background.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eRHo2lH?0Lx]I9Vr%gVsIotl$*ozt6R*WEx]RPs:ozofaet7oeoLt7"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764761/ff3ce03a-44b6-4868-be6c-0d8929bcb52b-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Blonde hair styled perfectly at Tipsy Salonbar Naples in Naples, Florida, US, showcasing elegant salon expertise.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eCIOLYI95Z~BJD.6?v4nyEMd-;S3ozsmR-M{xaV@ozadafIUM|M{WX"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764762/9378818b-13a7-454d-9a58-9753dab23a93-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Detailed floral nail art at Tipsy Salonbar Naples, Naples, Florida, US, featuring pink and turquoise designs.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eKLN48*J^*pcs*t-yCxarrWT%fr=Rmair@b^W=nhRis;ozi_oyR*af"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764763/d7099980-31eb-46f3-a89d-9aebfef9b33d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Intricate blue and white nail art with floral design at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "ebI;k+t7$_RjIr~BRjxtogRlbba~tRjEoIM{xakCWXR*kDR*oJt7WU"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764764/ea1d5a0e-2022-4581-a4a7-78015e6aef6c-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-secondary",
+    "alt": "Close-up of styled eyelashes at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eNMPtD-W}?sB9ZS59ZE1-o-po0s:E2E2?HafofoeIoofjZoMofRjfk"
+   }
+  ],
+  "small": [
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Stylish salon chairs in Tipsy Salonbar Naples, Naples, Florida, US, creating a modern and inviting atmosphere.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8I5b[00M}DN-9?GR5NayXtlNGt8nhRPxt-ps.%gxaWCxtt7%1xtW?"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764756/2913c0be-b721-4259-aa6f-a242c6af3cde-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Interior of Tipsy Salonbar Naples showing stylish hair stations, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eBG[.w.SMw4nnOIAn4s;NHoeDiR+oKaKt701W;Rjt7R+9FjYR%s:Rk"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764757/66004528-6257-4abb-b719-1aeda471f80d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Spacious pedicure area at Tipsy Salonbar Naples, showcasing plush chairs in Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eDGutAt7i_s+xZ_3.7niM{Mx~qxv-;NGRj%gg4f,x[WBI;%NI:NatR"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764758/59c5e116-760d-4696-b85e-f2b09e058ee0-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Modern salon interior at Tipsy Salonbar Naples, Naples, Florida, US, featuring sleek hair wash stations and product shelves.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8Gu];~U4.tSo#-3?b9aM{%LR-s8tRWVDi01IUV@?vozbvD%-;xuIT"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764759/b2a2e8e2-3c4c-43b2-a168-e041b11a1a19-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Front view of Tipsy Salonbar Naples, located in Naples, Florida, US, showcasing modern design and inviting entrance.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eZGb@nRPRjR-kC_4a{fkjZf6^,azWVoKf6.8j]V@f+ay.8t7j[j[ae"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764760/19355e3c-709e-4a4d-be34-92749a09a7f2-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Blonde hair styled elegantly at Tipsy Salonbar Naples, Naples, Florida, US. Modern salon interior in the background.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eRHo2lH?0Lx]I9Vr%gVsIotl$*ozt6R*WEx]RPs:ozofaet7oeoLt7"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764761/ff3ce03a-44b6-4868-be6c-0d8929bcb52b-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Blonde hair styled perfectly at Tipsy Salonbar Naples in Naples, Florida, US, showcasing elegant salon expertise.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eCIOLYI95Z~BJD.6?v4nyEMd-;S3ozsmR-M{xaV@ozadafIUM|M{WX"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764762/9378818b-13a7-454d-9a58-9753dab23a93-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Detailed floral nail art at Tipsy Salonbar Naples, Naples, Florida, US, featuring pink and turquoise designs.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eKLN48*J^*pcs*t-yCxarrWT%fr=Rmair@b^W=nhRis;ozi_oyR*af"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764763/d7099980-31eb-46f3-a89d-9aebfef9b33d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Intricate blue and white nail art with floral design at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "ebI;k+t7$_RjIr~BRjxtogRlbba~tRjEoIM{xakCWXR*kDR*oJt7WU"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764764/ea1d5a0e-2022-4581-a4a7-78015e6aef6c-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-small",
+    "alt": "Close-up of styled eyelashes at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eNMPtD-W}?sB9ZS59ZE1-o-po0s:E2E2?HafofoeIoofjZoMofRjfk"
+   }
+  ],
+  "mobile": [
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Stylish salon chairs in Tipsy Salonbar Naples, Naples, Florida, US, creating a modern and inviting atmosphere.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8I5b[00M}DN-9?GR5NayXtlNGt8nhRPxt-ps.%gxaWCxtt7%1xtW?"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764756/2913c0be-b721-4259-aa6f-a242c6af3cde-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Interior of Tipsy Salonbar Naples showing stylish hair stations, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eBG[.w.SMw4nnOIAn4s;NHoeDiR+oKaKt701W;Rjt7R+9FjYR%s:Rk"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764757/66004528-6257-4abb-b719-1aeda471f80d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Spacious pedicure area at Tipsy Salonbar Naples, showcasing plush chairs in Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eDGutAt7i_s+xZ_3.7niM{Mx~qxv-;NGRj%gg4f,x[WBI;%NI:NatR"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764758/59c5e116-760d-4696-b85e-f2b09e058ee0-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Modern salon interior at Tipsy Salonbar Naples, Naples, Florida, US, featuring sleek hair wash stations and product shelves.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8Gu];~U4.tSo#-3?b9aM{%LR-s8tRWVDi01IUV@?vozbvD%-;xuIT"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764759/b2a2e8e2-3c4c-43b2-a168-e041b11a1a19-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Front view of Tipsy Salonbar Naples, located in Naples, Florida, US, showcasing modern design and inviting entrance.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eZGb@nRPRjR-kC_4a{fkjZf6^,azWVoKf6.8j]V@f+ay.8t7j[j[ae"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764760/19355e3c-709e-4a4d-be34-92749a09a7f2-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Blonde hair styled elegantly at Tipsy Salonbar Naples, Naples, Florida, US. Modern salon interior in the background.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eRHo2lH?0Lx]I9Vr%gVsIotl$*ozt6R*WEx]RPs:ozofaet7oeoLt7"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764761/ff3ce03a-44b6-4868-be6c-0d8929bcb52b-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Blonde hair styled perfectly at Tipsy Salonbar Naples in Naples, Florida, US, showcasing elegant salon expertise.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eCIOLYI95Z~BJD.6?v4nyEMd-;S3ozsmR-M{xaV@ozadafIUM|M{WX"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764762/9378818b-13a7-454d-9a58-9753dab23a93-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Detailed floral nail art at Tipsy Salonbar Naples, Naples, Florida, US, featuring pink and turquoise designs.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eKLN48*J^*pcs*t-yCxarrWT%fr=Rmair@b^W=nhRis;ozi_oyR*af"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764763/d7099980-31eb-46f3-a89d-9aebfef9b33d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Intricate blue and white nail art with floral design at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "ebI;k+t7$_RjIr~BRjxtogRlbba~tRjEoIM{xakCWXR*kDR*oJt7WU"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764764/ea1d5a0e-2022-4581-a4a7-78015e6aef6c-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=venue-gallery-mobile",
+    "alt": "Close-up of styled eyelashes at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eNMPtD-W}?sB9ZS59ZE1-o-po0s:E2E2?HafofoeIoofjZoMofRjfk"
+   }
+  ],
+  "full": [
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764755/9ff5e190-14ff-4a6e-9a25-74f0964c0c6e-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Stylish salon chairs in Tipsy Salonbar Naples, Naples, Florida, US, creating a modern and inviting atmosphere.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8I5b[00M}DN-9?GR5NayXtlNGt8nhRPxt-ps.%gxaWCxtt7%1xtW?"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764756/2913c0be-b721-4259-aa6f-a242c6af3cde-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Interior of Tipsy Salonbar Naples showing stylish hair stations, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eBG[.w.SMw4nnOIAn4s;NHoeDiR+oKaKt701W;Rjt7R+9FjYR%s:Rk"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764757/66004528-6257-4abb-b719-1aeda471f80d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Spacious pedicure area at Tipsy Salonbar Naples, showcasing plush chairs in Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eDGutAt7i_s+xZ_3.7niM{Mx~qxv-;NGRj%gg4f,x[WBI;%NI:NatR"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764758/59c5e116-760d-4696-b85e-f2b09e058ee0-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Modern salon interior at Tipsy Salonbar Naples, Naples, Florida, US, featuring sleek hair wash stations and product shelves.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "e8Gu];~U4.tSo#-3?b9aM{%LR-s8tRWVDi01IUV@?vozbvD%-;xuIT"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764759/b2a2e8e2-3c4c-43b2-a168-e041b11a1a19-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Front view of Tipsy Salonbar Naples, located in Naples, Florida, US, showcasing modern design and inviting entrance.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eZGb@nRPRjR-kC_4a{fkjZf6^,azWVoKf6.8j]V@f+ay.8t7j[j[ae"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764760/19355e3c-709e-4a4d-be34-92749a09a7f2-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Blonde hair styled elegantly at Tipsy Salonbar Naples, Naples, Florida, US. Modern salon interior in the background.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eRHo2lH?0Lx]I9Vr%gVsIotl$*ozt6R*WEx]RPs:ozofaet7oeoLt7"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764761/ff3ce03a-44b6-4868-be6c-0d8929bcb52b-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Blonde hair styled perfectly at Tipsy Salonbar Naples in Naples, Florida, US, showcasing elegant salon expertise.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eCIOLYI95Z~BJD.6?v4nyEMd-;S3ozsmR-M{xaV@ozadafIUM|M{WX"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764762/9378818b-13a7-454d-9a58-9753dab23a93-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Detailed floral nail art at Tipsy Salonbar Naples, Naples, Florida, US, featuring pink and turquoise designs.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eKLN48*J^*pcs*t-yCxarrWT%fr=Rmair@b^W=nhRis;ozi_oyR*af"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764763/d7099980-31eb-46f3-a89d-9aebfef9b33d-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Intricate blue and white nail art with floral design at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "ebI;k+t7$_RjIr~BRjxtogRlbba~tRjEoIM{xakCWXR*kDR*oJt7WU"
+   },
+   {
+    "url": "https://images.fresha.com/locations/location-profile-images/453565/2764764/ea1d5a0e-2022-4581-a4a7-78015e6aef6c-TipsySalonbarNaples-US-Florida-Naples-ParkShore-Fresha.jpg?class=gallery-modal-large&watermark=true",
+    "alt": "Close-up of styled eyelashes at Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 1398,
+    "height": 786,
+    "blurHash": "eNMPtD-W}?sB9ZS59ZE1-o-po0s:E2E2?HafofoeIoofjZoMofRjfk"
+   }
+  ]
+ },
+ "serviceCategories": [
+  {
+   "id": "recommended",
+   "name": "Featured",
+   "items": [
+    {
+     "id": "s:13677785",
+     "name": "Add on Gel/ Dazzle Dry (Feet)",
+     "caption": "10 min",
+     "description": null,
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15817265",
+       "name": "Add on Gel/ Dazzle Dry (Feet)",
+       "caption": "10 min",
+       "price": "$20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "232"
+    },
+    {
+     "id": "s:13658267",
+     "name": "Express Pedicure",
+     "caption": "30 min",
+     "description": "Express pedicure includes a nail trim, nail shaping, cuticle buff, warm soak, scrub, quick massage, moisturize and polish of your choice",
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794617",
+       "name": "Express Pedicure",
+       "caption": "30 min",
+       "price": "$40"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "209"
+    },
+    {
+     "id": "s:15548067",
+     "name": "Spa Pedicure",
+     "caption": "50 min",
+     "description": "Luxurious foot treatment that includes a relaxing sea salt soak, exfoliation, nail care, hydrating mask, and a soothing massage butter for soft, rejuvenated feet",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932837",
+       "name": "Spa Pedicure",
+       "caption": "50 min",
+       "price": "$60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "164"
+    },
+    {
+     "id": "s:13665329",
+     "name": "Builder or Liquid Gel Fill (IBD Gel)",
+     "caption": "1 hr, 15 min",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802925",
+       "name": "Builder or Liquid Gel Fill (IBD Gel)",
+       "caption": "1 hr, 15 min",
+       "price": "$60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "107"
+    }
+   ]
+  },
+  {
+   "id": "1184252",
+   "name": "Color Services",
+   "items": [
+    {
+     "id": "s:20220576",
+     "name": "Color Melt",
+     "caption": "1 hr, 5 min",
+     "description": "Must add a blow dry, if first time doing color at Tipsy Salon",
+     "price": "from $155",
+     "priceValue": 155,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "23194659",
+       "name": "Color Melt",
+       "caption": "1 hr, 5 min",
+       "price": "from $155"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:19881119",
+     "name": "Root touch up 10 minute",
+     "caption": "40 min",
+     "description": "Color on 1\" or less of regrowth \nMust add a blow dry, if first time doing color at Tipsy Salon",
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22812074",
+       "name": "Root touch up 10 minute",
+       "caption": "40 min",
+       "price": "from $100"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658264",
+     "name": "Men’s all over color",
+     "caption": "50 min - 1 hr",
+     "description": null,
+     "price": "from $75",
+     "priceValue": 75,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794611",
+       "name": "Men’s all over color",
+       "caption": "50 min - 1 hr",
+       "price": "from $75"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:19414612",
+     "name": "Mini Root touch up",
+     "caption": "55 min",
+     "description": "Color around your hair line and part line\nCannot do more than one Mini root touch up in the row. Must be follow by a Full root touch up at your next color appointment",
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22270877",
+       "name": "Mini Root touch up",
+       "caption": "55 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658203",
+     "name": "Root touch up",
+     "caption": "1 hr, 15 min",
+     "description": "Color on 1\" or less of regrowth \nMust add a blow dry, if first time doing color at Tipsy Salon",
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794544",
+       "name": "Root touch up",
+       "caption": "1 hr, 15 min",
+       "price": "from $100"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "53"
+    },
+    {
+     "id": "s:13658207",
+     "name": "All over color",
+     "caption": "1 hr, 30 min - 1 hr, 45 min",
+     "description": "1 single process color (Not for you if you do highlights)\nMust add a blow dry, if first time doing color at Tipsy Salon",
+     "price": "from $150",
+     "priceValue": 150,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794548",
+       "name": "All over color",
+       "caption": "1 hr, 30 min - 1 hr, 45 min",
+       "price": "from $150"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "7"
+    },
+    {
+     "id": "s:13658295",
+     "name": "Color correction",
+     "caption": "4 hr, 45 min",
+     "description": "This is a color correction service that starts at $120 per hour. Must add a glaze/toner and blow dry to appointment",
+     "price": "from $120",
+     "priceValue": 120,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794645",
+       "name": "Color correction",
+       "caption": "4 hr, 45 min",
+       "price": "from $120"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:14876868",
+     "name": "Add on Base Break",
+     "caption": "20 min",
+     "description": "The purpose of a base break is to lift the root area slightly and soften the overall look of a highlight client. It's a great way to refine a highlight color palette.",
+     "price": "$35",
+     "priceValue": 35,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17173764",
+       "name": "Add on Base Break",
+       "caption": "20 min",
+       "price": "$35"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658253",
+     "name": "Semi permanent color",
+     "caption": "1 hr, 15 min",
+     "description": null,
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794599",
+       "name": "Semi permanent color",
+       "caption": "1 hr, 15 min",
+       "price": "from $100"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658239",
+     "name": "Root touchup and low lights",
+     "caption": "1 hr, 10 min",
+     "description": null,
+     "price": "from $170",
+     "priceValue": 170,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794584",
+       "name": "Root touchup and low lights",
+       "caption": "1 hr, 10 min",
+       "price": "from $170"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "7"
+    },
+    {
+     "id": "s:18161022",
+     "name": "Add on Color Bowl",
+     "caption": "10 min",
+     "description": null,
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20973688",
+       "name": "Add on Color Bowl",
+       "caption": "10 min",
+       "price": "$20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "9"
+    },
+    {
+     "id": "s:20220740",
+     "name": "Add on Root Smudge ",
+     "caption": "35 min",
+     "description": null,
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "23194829",
+       "name": "Add on Root Smudge ",
+       "caption": "35 min",
+       "price": "$40"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "3948319",
+   "name": "High Light( Include Toner or Mask)",
+   "items": [
+    {
+     "id": "s:19916086",
+     "name": "Platinum Card",
+     "caption": "6 hr",
+     "description": "Client must book for a hair consultation before book this appointment. \nA platinum card in hair coloring is a technique where every single piece of hair is put into a foil and lightened-basically, it's maximum blonding. Instead of doing traditional highlights where you only lighten certain sections, a platinum card covers every strand to lift the hair as evenly and as light as possible. It's often used when someone wants to go super blonde, like platinum, icy, or white blonde shades, especially if they have darker hair to start with. Includes Toner.",
+     "price": "from $450",
+     "priceValue": 450,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22851630",
+       "name": "Platinum Card",
+       "caption": "6 hr",
+       "price": "from $450"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658214",
+     "name": "Platinum, bleach Root touchup (6weeks or less)",
+     "caption": "1 hr, 30 min",
+     "description": "Must add Blow Dry to appointment",
+     "price": "from $190",
+     "priceValue": 190,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794556",
+       "name": "Platinum, bleach Root touchup (6weeks or less)",
+       "caption": "1 hr, 30 min",
+       "price": "from $190"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658234",
+     "name": "Full highlight",
+     "caption": "2 hr",
+     "description": "This technique includes foils on top of whole head, sides, and back.\nMust add Blow Dry to appointment",
+     "price": "from $250",
+     "priceValue": 250,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794579",
+       "name": "Full highlight",
+       "caption": "2 hr",
+       "price": "from $250"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "31"
+    },
+    {
+     "id": "s:13658261",
+     "name": "Half head highlight",
+     "caption": "1 hr, 45 min",
+     "description": "This technique includes foils placed on the mohawk and sides.\nMust add a glaze/toner and blow dry to appointment",
+     "price": "from $200",
+     "priceValue": 200,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794608",
+       "name": "Half head highlight",
+       "caption": "1 hr, 45 min",
+       "price": "from $200"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "14"
+    },
+    {
+     "id": "s:13658233",
+     "name": "Partial highlight",
+     "caption": "1 hr, 15 min",
+     "description": "This technique includes foils on the top of the head (mohawk area only)\nMust add a glaze/toner and blow dry to appointment",
+     "price": "from $175",
+     "priceValue": 175,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794578",
+       "name": "Partial highlight",
+       "caption": "1 hr, 15 min",
+       "price": "from $175"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "20"
+    },
+    {
+     "id": "s:13658238",
+     "name": "Balayage Foilyage Ombré",
+     "caption": "2 hr, 15 min",
+     "description": "Must add Blow Dry to appointment",
+     "price": "from $285",
+     "priceValue": 285,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794583",
+       "name": "Balayage Foilyage Ombré",
+       "caption": "2 hr, 15 min",
+       "price": "from $285"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658257",
+     "name": "Root Touch Up Mini (Up to 10 Foils)",
+     "caption": "1 hr, 15 min",
+     "description": "Must add Blow Dry to appointment",
+     "price": "from $225",
+     "priceValue": 225,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794604",
+       "name": "Root Touch Up Mini (Up to 10 Foils)",
+       "caption": "1 hr, 15 min",
+       "price": "from $225"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "4"
+    },
+    {
+     "id": "s:13658249",
+     "name": "Glaze/ Toner",
+     "caption": "30 min",
+     "description": "With no other color services\nMust add Blow Dry to appointment",
+     "price": "from $50",
+     "priceValue": 50,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794594",
+       "name": "Glaze/ Toner",
+       "caption": "30 min",
+       "price": "from $50"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "19"
+    },
+    {
+     "id": "s:19306207",
+     "name": "Add on Glaze/ Toner",
+     "caption": "30 min",
+     "description": "With other color services, highlight",
+     "price": "from $0",
+     "priceValue": 0,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22144416",
+       "name": "Add on Glaze/ Toner",
+       "caption": "30 min",
+       "price": "from $0"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "32"
+    },
+    {
+     "id": "s:20588032",
+     "name": "Add on Hair Shot",
+     "caption": "30 min",
+     "description": "Add on with any hair colouring service. A booster that make your hair look healthier and more vibrant.",
+     "price": "from $45",
+     "priceValue": 45,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "23609430",
+       "name": "Add on Hair Shot",
+       "caption": "30 min",
+       "price": "from $45"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "9"
+    }
+   ]
+  },
+  {
+   "id": "5396940",
+   "name": "Barbering",
+   "items": [
+    {
+     "id": "s:20966440",
+     "name": "Hot towel Shave",
+     "caption": "30 min",
+     "description": "A classic straight-razor shave enjoyed by men for centuries. Manly. Civilized. Relaxing.",
+     "price": "$30",
+     "priceValue": 30,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24037772",
+       "name": "Hot towel Shave",
+       "caption": "30 min",
+       "price": "$30"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20966425",
+     "name": "Fades",
+     "caption": "1 hr",
+     "description": "A fade is a taper that gradually takes the hair down to the skin",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24037756",
+       "name": "Fades",
+       "caption": "1 hr",
+       "price": "$60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20966398",
+     "name": "Beard Trim",
+     "caption": "35 min",
+     "description": "Trimming, shaping, and shaving",
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24037727",
+       "name": "Beard Trim",
+       "caption": "35 min",
+       "price": "$40"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1183084",
+   "name": "Hair Cutting Services",
+   "items": [
+    {
+     "id": "s:13653292",
+     "name": "Bang Trim",
+     "caption": "10 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15788989",
+       "name": "Bang Trim",
+       "caption": "10 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "3"
+    },
+    {
+     "id": "s:13653275",
+     "name": "Men's Haircut",
+     "caption": "30 min - 40 min",
+     "description": null,
+     "price": "from $55",
+     "priceValue": 55,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15788972",
+       "name": "Men's Haircut",
+       "caption": "30 min - 40 min",
+       "price": "from $55"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "17"
+    },
+    {
+     "id": "s:13653249",
+     "name": "Women's Haircut & Blowdry",
+     "caption": "45 min - 1 hr",
+     "description": null,
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15788943",
+       "name": "Women's Haircut & Blowdry",
+       "caption": "45 min - 1 hr",
+       "price": "from $100"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "136"
+    },
+    {
+     "id": "s:13653296",
+     "name": "Kid's haircut only (Under 12)",
+     "caption": "30 min",
+     "description": "12 Years of age or younger.",
+     "price": "from $40",
+     "priceValue": 40,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15788993",
+       "name": "Kid's haircut only (Under 12)",
+       "caption": "30 min",
+       "price": "from $40"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13653287",
+     "name": "Kid's Haircut & Blowdry (Under 12)",
+     "caption": "30 min",
+     "description": "Starting Price is listed and price can vary depending on length and density",
+     "price": "from $65",
+     "priceValue": 65,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15788984",
+       "name": "Kid's Haircut & Blowdry (Under 12)",
+       "caption": "30 min",
+       "price": "from $65"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1184251",
+   "name": "Blow Dry Bar",
+   "items": [
+    {
+     "id": "s:13658134",
+     "name": "Tipsy Signature Blow Out- Short  Hair",
+     "caption": "30 min - 45 min",
+     "description": "Short hair is typically defined as hair that sit at or above the shoulder\nWash and Blow Dry \nPlease come 15 minute before your appointment to get your har washed\nPrice may vary due to length and density of hair.",
+     "price": "from $55",
+     "priceValue": 55,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794458",
+       "name": "Tipsy Signature Blow Out- Short  Hair",
+       "caption": "30 min - 45 min",
+       "price": "from $55"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "54"
+    },
+    {
+     "id": "s:18136041",
+     "name": "Tipsy Signature Blow Out- Medium Hair",
+     "caption": "35 min - 50 min",
+     "description": "Medium hair is typically defined as hair that sits between shoulder and bra strap\nWash and Blow Dry \nPlease come 15 minute before your appointment to get your hair washed\nPrice may vary due to length and density of hair.",
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "20944212",
+       "name": "Tipsy Signature Blow Out- Medium Hair",
+       "caption": "35 min - 50 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "116"
+    },
+    {
+     "id": "s:18136045",
+     "name": "Tipsy Signature Blow Out- Long or Thick Hair",
+     "caption": "40 min - 1 hr",
+     "description": "Long hair is typically defined as hair that falls below the bra strap\nWash and Blow Dry \nPlease come 15 minute before your appointment to get your har washed\nPrice may vary due to length and density of hair.",
+     "price": "from $70",
+     "priceValue": 70,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "20944216",
+       "name": "Tipsy Signature Blow Out- Long or Thick Hair",
+       "caption": "40 min - 1 hr",
+       "price": "from $70"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "58"
+    },
+    {
+     "id": "s:13658154",
+     "name": "Add on Extensions",
+     "caption": "10 min",
+     "description": "This must be added to a Tipsy Signature Blowout, if you have extensions. \nAppointment can be cancelled upon arrival, due to no extra time scheduled.",
+     "price": "$10",
+     "priceValue": 10,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794481",
+       "name": "Add on Extensions",
+       "caption": "10 min",
+       "price": "$10"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "10"
+    },
+    {
+     "id": "s:16384325",
+     "name": "Add on Scalp Treatment",
+     "caption": "20 min",
+     "description": "Scalp scrub, mask for scalp and hair, leave in treatment to help balance the scalp ph level",
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "18899650",
+       "name": "Add on Scalp Treatment",
+       "caption": "20 min",
+       "price": "$40"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "19"
+    },
+    {
+     "id": "s:13658188",
+     "name": "Add on 10 Minutes Scalp or Hand Massage",
+     "caption": "10 min",
+     "description": "10 minutes of scalp heaven!",
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794529",
+       "name": "Add on 10 Minutes Scalp or Hand Massage",
+       "caption": "10 min",
+       "price": "$20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658140",
+     "name": "Add on Collagen Mask/ Clear Glaze Shine/ Keratin 1 Week, Frizz Free Shine/ Hydration Mask/ Blond Brightener Mask",
+     "caption": "15 min",
+     "description": "Add on to any Blow Dry Services",
+     "price": "$30",
+     "priceValue": 30,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794467",
+       "name": "Add on Collagen Mask/ Clear Glaze Shine/ Keratin 1 Week, Frizz Free Shine/ Hydration Mask/ Blond Brightener Mask",
+       "caption": "15 min",
+       "price": "$30"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "23"
+    },
+    {
+     "id": "s:13658193",
+     "name": "Style with Flat iron or curl ",
+     "caption": "30 min",
+     "description": "Come to appointment with clean and dry hair. \nPrice may vary due to length and destiny of hair.",
+     "price": "from $50",
+     "priceValue": 50,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794534",
+       "name": "Style with Flat iron or curl ",
+       "caption": "30 min",
+       "price": "from $50"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "3"
+    },
+    {
+     "id": "s:19673995",
+     "name": "Updo Trial",
+     "caption": "1 hr",
+     "description": "Hair must be clean, and dry.",
+     "price": "from $75",
+     "priceValue": 75,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22570453",
+       "name": "Updo Trial",
+       "caption": "1 hr",
+       "price": "from $75"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658171",
+     "name": "Updo",
+     "caption": "1 hr",
+     "description": "Hair must be clean, and dry.",
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794508",
+       "name": "Updo",
+       "caption": "1 hr",
+       "price": "from $100"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:19422794",
+     "name": "Hair Wash With add on Hair Mask Only",
+     "caption": "20 min",
+     "description": "This does not include Blow dry",
+     "price": "$50",
+     "priceValue": 50,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "22280419",
+       "name": "Hair Wash With add on Hair Mask Only",
+       "caption": "20 min",
+       "price": "$50"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:19700183",
+     "name": "Hair Wash Only",
+     "caption": "20 min",
+     "description": "This does not include Blow dry",
+     "price": "$25",
+     "priceValue": 25,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "22601209",
+       "name": "Hair Wash Only",
+       "caption": "20 min",
+       "price": "$25"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1184255",
+   "name": "Hair Extensions",
+   "items": [
+    {
+     "id": "s:21262592",
+     "name": "Topper Full Install",
+     "caption": "4 hr",
+     "description": "Includes your color matched Topherr, a take home client care kit, custom fit and installation, hair cut and blend.",
+     "price": "$2,000",
+     "priceValue": 2000,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24373245",
+       "name": "Topper Full Install",
+       "caption": "4 hr",
+       "price": "$2,000"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:21262613",
+     "name": "Topper 4 weeks and 8 weeks maintenance and tightening",
+     "caption": "2 hr",
+     "description": "Includes move up, shampoo, blow dry and style",
+     "price": "$250",
+     "priceValue": 250,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24373271",
+       "name": "Topper 4 weeks and 8 weeks maintenance and tightening",
+       "caption": "2 hr",
+       "price": "$250"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:21262627",
+     "name": "Topper 12 weeks reinstall",
+     "caption": "3 hr",
+     "description": "Includes removal of topper, shampoo and blow dry treatment of your topper and reinstall",
+     "price": "$750",
+     "priceValue": 750,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24373293",
+       "name": "Topper 12 weeks reinstall",
+       "caption": "3 hr",
+       "price": "$750"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658407",
+     "name": "Sew in Volume or Flex Wefts Full Install",
+     "caption": "2 hr, 30 min",
+     "description": "Full head of Bellami volume weft microbead, sew in extensions for volume fullness and length. Includes wash with blowdry to prep the hair.",
+     "price": "from $550",
+     "priceValue": 550,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794771",
+       "name": "Sew in Volume or Flex Wefts Full Install",
+       "caption": "2 hr, 30 min",
+       "price": "from $550"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658421",
+     "name": "Sew in Volume or Flex Wefts Install per row",
+     "caption": "45 min",
+     "description": "Bellami volume weft hair microbead sew in extensions per row",
+     "price": "from $200",
+     "priceValue": 200,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794787",
+       "name": "Sew in Volume or Flex Wefts Install per row",
+       "caption": "45 min",
+       "price": "from $200"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658434",
+     "name": "Sew in Volume or Flex Wefts move up (up to 3 rows)",
+     "caption": "45 min",
+     "description": "More than 3 rows add $20 per row",
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794802",
+       "name": "Sew in Volume or Flex Wefts move up (up to 3 rows)",
+       "caption": "45 min",
+       "price": "from $100"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "5"
+    },
+    {
+     "id": "s:13658559",
+     "name": "Sew in Volume, Flex or Infinity Wefts Mini Fix",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794948",
+       "name": "Sew in Volume, Flex or Infinity Wefts Mini Fix",
+       "caption": "15 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658431",
+     "name": "Sew in Volume, Flex or Infinity Wefts Removal only ",
+     "caption": "15 min",
+     "description": "Recommended to book a wash + blow dry with the service and haircut to bring life back to your hair after wearing extensions for any period of time it’s going to take a break from extensions",
+     "price": "from $80",
+     "priceValue": 80,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794799",
+       "name": "Sew in Volume, Flex or Infinity Wefts Removal only ",
+       "caption": "15 min",
+       "price": "from $80"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658440",
+     "name": "Sew in Infinity Wefts Install per row",
+     "caption": "1 hr",
+     "description": "Wash and blow dry included in service to prep the hair.",
+     "price": "from $250",
+     "priceValue": 250,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794813",
+       "name": "Sew in Infinity Wefts Install per row",
+       "caption": "1 hr",
+       "price": "from $250"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658512",
+     "name": "Sew in Infinity Wefts move up (up to 3 rows)",
+     "caption": "45 min",
+     "description": "more than 3 rows add $20 per row",
+     "price": "from $125",
+     "priceValue": 125,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794893",
+       "name": "Sew in Infinity Wefts move up (up to 3 rows)",
+       "caption": "45 min",
+       "price": "from $125"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20646474",
+     "name": "Sew in Infinity Wefts Re-Install per row",
+     "caption": "1 hr",
+     "description": null,
+     "price": "from $250",
+     "priceValue": 250,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "23675511",
+       "name": "Sew in Infinity Wefts Re-Install per row",
+       "caption": "1 hr",
+       "price": "from $250"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20646438",
+     "name": "Hidden Row Sew in Infinity Wefts Install per row",
+     "caption": "1 hr, 30 min",
+     "description": "Wash and blow dry included in service to prep the hair.",
+     "price": "from $325",
+     "priceValue": 325,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "23675475",
+       "name": "Hidden Row Sew in Infinity Wefts Install per row",
+       "caption": "1 hr, 30 min",
+       "price": "from $325"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "2885116",
+   "name": "Hair Treatments",
+   "items": [
+    {
+     "id": "s:21248675",
+     "name": "Split End Treatment",
+     "caption": "1 hr",
+     "description": "Reveal healthier-looking hair as this treatment instantly repairs and helps prevent split ends. This will last up to 4 weeks.",
+     "price": "$250",
+     "priceValue": 250,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24357575",
+       "name": "Split End Treatment",
+       "caption": "1 hr",
+       "price": "$250"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20966170",
+     "name": "Perm",
+     "caption": "1 hr, 20 min",
+     "description": "Chemical process that changes the structure of your hair by breaking and reforming the bonds within the hair shaft.",
+     "price": "from $150",
+     "priceValue": 150,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "24037483",
+       "name": "Perm",
+       "caption": "1 hr, 20 min",
+       "price": "from $150"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:20557258",
+     "name": "KCEXPRESS",
+     "caption": "1 hr",
+     "description": "Color-locking, speedy smoothing solution is an express service that delivers polished, more manageable hair with results that last up to 6 weeks. \n\nKCEXPRESS takes 15 mins when added to a color service OR  just 1 hour when used as a standalone service.",
+     "price": "$225",
+     "priceValue": 225,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "23574851",
+       "name": "KCEXPRESS",
+       "caption": "1 hr",
+       "price": "$225"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:18171064",
+     "name": "BB Creme Treatment",
+     "caption": "2 hr",
+     "description": "A multi-benefit conditioning treatment that nourishes, smooths, and protects hair. Inspired by BB creams for skin, it provides hydration, frizz control, heat protection, and shine, leaving hair soft, healthy, and more manageable. Perfect for all hair types needing extra care",
+     "price": "$250",
+     "priceValue": 250,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20985740",
+       "name": "BB Creme Treatment",
+       "caption": "2 hr",
+       "price": "$250"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:18136117",
+     "name": "Keratin Treatment ",
+     "caption": "2 hr, 30 min - 3 hr",
+     "description": "Penetrates and straightens each hair cutitule with its micro protein system. Nourishes by shielding each strand against damages. This groundbreaking system will leave your hair radiantly smooth!",
+     "price": "$330",
+     "priceValue": 330,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20944310",
+       "name": "Keratin Treatment ",
+       "caption": "2 hr, 30 min - 3 hr",
+       "price": "$330"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13666045",
+     "name": "Amazon Xtreme Treatment",
+     "caption": "2 hr, 30 min - 3 hr, 30 min",
+     "description": "Straightening treatment 2 to 3 months",
+     "price": "$350",
+     "priceValue": 350,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803788",
+       "name": "Amazon Xtreme Treatment",
+       "caption": "2 hr, 30 min - 3 hr, 30 min",
+       "price": "$350"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13762293",
+     "name": "Brazilian Blowout Treatment",
+     "caption": "2 hr - 2 hr, 30 min",
+     "description": "Through breakthrough bonding technologies, this customizable smoothing treatment improves the hair's condition by creating a protective protein layer around the hair shaft to eliminate frizz and smooth the cuticle for up to 12 weeks! \n\n**Starting price, not including extra bowls needed for hair density/extra length**",
+     "price": "from $330",
+     "priceValue": 330,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15913495",
+       "name": "Brazilian Blowout Treatment",
+       "caption": "2 hr - 2 hr, 30 min",
+       "price": "from $330"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "4"
+    },
+    {
+     "id": "s:13666031",
+     "name": "Hair Botox Treatment ",
+     "caption": "2 hr - 2 hr, 30 min",
+     "description": "Keratin treatment 8 to 12 weeks\nThis is the starting price, not including extra bowls needed for length/density",
+     "price": "from $350",
+     "priceValue": 350,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15803773",
+       "name": "Hair Botox Treatment ",
+       "caption": "2 hr - 2 hr, 30 min",
+       "price": "from $350"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665518",
+     "name": "Add on Custom Malibu C Repair Treatment",
+     "caption": "15 min",
+     "description": null,
+     "price": "$30",
+     "priceValue": 30,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803140",
+       "name": "Add on Custom Malibu C Repair Treatment",
+       "caption": "15 min",
+       "price": "$30"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "5407758",
+   "name": "Bridal Hair",
+   "items": [
+    {
+     "id": "s:21008366",
+     "name": "Bridal Hair",
+     "caption": "1 hr, 30 min",
+     "description": "Bride pricing day of wedding (in salon)\nHair must be clean/dry",
+     "price": "$130",
+     "priceValue": 130,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24084956",
+       "name": "Bridal Hair",
+       "caption": "1 hr, 30 min",
+       "price": "$130"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1184256",
+   "name": "Mani/Pedi Combos",
+   "items": [
+    {
+     "id": "s:13658254",
+     "name": "Dazzle dry Manicure and Dazzle dry Pedicure",
+     "caption": "1 hr, 25 min",
+     "description": "Naked nails with dazzle dry applied on hands and feet.",
+     "price": "from $105",
+     "priceValue": 105,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794600",
+       "name": "Dazzle dry Manicure and Dazzle dry Pedicure",
+       "caption": "1 hr, 25 min",
+       "price": "from $105"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "24"
+    },
+    {
+     "id": "s:13658232",
+     "name": "Gel Manicure & Express Pedicure",
+     "caption": "1 hr, 10 min",
+     "description": "Naked nails with gel application, and classic pedicure; regular polish included ( gel / dazzle dry $20 more)",
+     "price": "from $85",
+     "priceValue": 85,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794577",
+       "name": "Gel Manicure & Express Pedicure",
+       "caption": "1 hr, 10 min",
+       "price": "from $85"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "14"
+    },
+    {
+     "id": "s:13658212",
+     "name": "Classic Manicure & Express Pedicure ",
+     "caption": "1 hr, 10 min",
+     "description": "Naked nails with regular polish applied to both hands and feet ( gel/ dazzle dry $20 more)",
+     "price": "from $70",
+     "priceValue": 70,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794554",
+       "name": "Classic Manicure & Express Pedicure ",
+       "caption": "1 hr, 10 min",
+       "price": "from $70"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "8"
+    }
+   ]
+  },
+  {
+   "id": "1184257",
+   "name": "Pedicures",
+   "items": [
+    {
+     "id": "s:13658267",
+     "name": "Express Pedicure",
+     "caption": "30 min",
+     "description": "Express pedicure includes a nail trim, nail shaping, cuticle buff, warm soak, scrub, quick massage, moisturize and polish of your choice",
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794617",
+       "name": "Express Pedicure",
+       "caption": "30 min",
+       "price": "$40"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "209"
+    },
+    {
+     "id": "s:18136519",
+     "name": "Bath bomb Pedicure",
+     "caption": "35 min",
+     "description": "Transforms your foot soak into a fizzy, aromatic experience, softening skin while you relax. Enjoy exfoliation, nail care, and a soothing massage",
+     "price": "$45",
+     "priceValue": 45,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20944767",
+       "name": "Bath bomb Pedicure",
+       "caption": "35 min",
+       "price": "$45"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "24"
+    },
+    {
+     "id": "s:15547949",
+     "name": "Cocktail Pedicure",
+     "caption": "40 min",
+     "description": "Refreshing soak, exfoliation, nail care, and a hydrating mask and massage, all infused with delightful cocktail-inspired scents!",
+     "price": "$50",
+     "priceValue": 50,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932706",
+       "name": "Cocktail Pedicure",
+       "caption": "40 min",
+       "price": "$50"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "45"
+    },
+    {
+     "id": "s:15548067",
+     "name": "Spa Pedicure",
+     "caption": "50 min",
+     "description": "Luxurious foot treatment that includes a relaxing sea salt soak, exfoliation, nail care, hydrating mask, and a soothing massage butter for soft, rejuvenated feet",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932837",
+       "name": "Spa Pedicure",
+       "caption": "50 min",
+       "price": "$60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "164"
+    },
+    {
+     "id": "s:15547968",
+     "name": "Luxurious Unicorn Pedicure",
+     "caption": "50 min",
+     "description": "Magical, colorful treat for your feet! Featuring pastel hues, shimmering glitter, and dreamy designs, it includes a relaxing soak, exfoliation, nail care, and a hydrating massage for a whimsical, pampering experience",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932726",
+       "name": "Luxurious Unicorn Pedicure",
+       "caption": "50 min",
+       "price": "$60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:15548048",
+     "name": "Hot Stone Pedicure",
+     "caption": "55 min",
+     "description": "The ultimate relaxation experience, combining a soothing foot soak, exfoliation, nail care, and a massage with hot/warm stones to relieve tension and improve circulation. Perfect for tired feet",
+     "price": "$70",
+     "priceValue": 70,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932814",
+       "name": "Hot Stone Pedicure",
+       "caption": "55 min",
+       "price": "$70"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "11"
+    },
+    {
+     "id": "s:13658319",
+     "name": "Tipsy Collagen Pedicure",
+     "caption": "1 hr",
+     "description": "Perfect mix of relaxation and indulgence! Enjoy a luxurious pedicure with a collagen-infused treatment to hydrate and rejuvenate your skin. We use an ultra premium medical-grade therapeutic warm paraffin wax that provides nourishment with its age-defying fomula",
+     "price": "$80",
+     "priceValue": 80,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794672",
+       "name": "Tipsy Collagen Pedicure",
+       "caption": "1 hr",
+       "price": "$80"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "19"
+    },
+    {
+     "id": "s:15548006",
+     "name": "Pedicure of The Season",
+     "caption": "1 hr, 10 min",
+     "description": "We use only the highest-quality products to ensure your feet look flawless and feel renewed. Each pedicure is thoughtfully designed around seasonal themes, elegant colors, and personalized care. Please ask our team about this season's exclusive pedicure offerings",
+     "price": "$90",
+     "priceValue": 90,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "17932768",
+       "name": "Pedicure of The Season",
+       "caption": "1 hr, 10 min",
+       "price": "$90"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "3"
+    },
+    {
+     "id": "s:13658331",
+     "name": "24K Gold Pedicure",
+     "caption": "1 hr, 30 min",
+     "description": "Party ready skin that leaves your feet looking brighter and refreshed. The ultimate in luxury, gold-inspried infused with soothing and calming benefits of Vanilla Beans. Hot Stone. Parafin Wax treatment , plus a Collagen Treatment for your feet enriched collagen, olive oil and argan oil to help soothe the skin, bringing comfort and softness to help make your feet feel Sparkly Clean",
+     "price": "$120",
+     "priceValue": 120,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15794684",
+       "name": "24K Gold Pedicure",
+       "caption": "1 hr, 30 min",
+       "price": "$120"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "3"
+    },
+    {
+     "id": "s:13688635",
+     "name": "Add on Callus Eliminate",
+     "caption": "5 min",
+     "description": null,
+     "price": "$10",
+     "priceValue": 10,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15829953",
+       "name": "Add on Callus Eliminate",
+       "caption": "5 min",
+       "price": "$10"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "38"
+    },
+    {
+     "id": "s:13688614",
+     "name": "Add on 10 Minutes Massage",
+     "caption": "10 min",
+     "description": "Feet/Legs",
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15829927",
+       "name": "Add on 10 Minutes Massage",
+       "caption": "10 min",
+       "price": "$20"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "11"
+    },
+    {
+     "id": "s:13658581",
+     "name": "Add on Hot Stone",
+     "caption": "10 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15794977",
+       "name": "Add on Hot Stone",
+       "caption": "10 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1184258",
+   "name": "Manicures",
+   "items": [
+    {
+     "id": "s:13662005",
+     "name": "Classic Manicure ",
+     "caption": "25 min",
+     "description": null,
+     "price": "from $30",
+     "priceValue": 30,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799040",
+       "name": "Classic Manicure ",
+       "caption": "25 min",
+       "price": "from $30"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "45"
+    },
+    {
+     "id": "s:13662078",
+     "name": "Dazzle Dry Manicure ",
+     "caption": "45 min",
+     "description": "Classic manicure finished with Dazzle Dry polish",
+     "price": "from $45",
+     "priceValue": 45,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799121",
+       "name": "Dazzle Dry Manicure ",
+       "caption": "45 min",
+       "price": "from $45"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "146"
+    },
+    {
+     "id": "s:13662047",
+     "name": "Gel Manicure",
+     "caption": "45 min",
+     "description": "This is ONLY natural nails with gel polish on top. No liquid gel refills.",
+     "price": "from $45",
+     "priceValue": 45,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799089",
+       "name": "Gel Manicure",
+       "caption": "45 min",
+       "price": "from $45"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "103"
+    },
+    {
+     "id": "s:13662499",
+     "name": "Spa Manicure",
+     "caption": "50 min",
+     "description": "Classic Manicure featuring a sugar scrub for gentle exfoliation, a nourishing mask, and a soothing paraffin treatment—leaving your hands smooth, hydrated, and perfectly polished.",
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799597",
+       "name": "Spa Manicure",
+       "caption": "50 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "4"
+    },
+    {
+     "id": "s:13662953",
+     "name": "Russian Manicure",
+     "caption": "50 min",
+     "description": "A Russian manicure involves a dry process of filing, cutting and removing the cuticle with electric drill bit entirely for clean edge-less look. This doesn't include the gel polish or builder gel application.",
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800116",
+       "name": "Russian Manicure",
+       "caption": "50 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13706788",
+     "name": "Dazzle Dry Polish Change (Hands)",
+     "caption": "20 min",
+     "description": "Include nail cut and file real nail",
+     "price": "$30",
+     "priceValue": 30,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15850589",
+       "name": "Dazzle Dry Polish Change (Hands)",
+       "caption": "20 min",
+       "price": "$30"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "8"
+    },
+    {
+     "id": "s:13662061",
+     "name": "Gel polish change (Hands)",
+     "caption": "30 min",
+     "description": null,
+     "price": "from $30",
+     "priceValue": 30,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799103",
+       "name": "Gel polish change (Hands)",
+       "caption": "30 min",
+       "price": "from $30"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "19"
+    },
+    {
+     "id": "s:13662000",
+     "name": "Regular polish change (Hands)",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799032",
+       "name": "Regular polish change (Hands)",
+       "caption": "15 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663038",
+     "name": "Add on Chrome or Cateye",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800207",
+       "name": "Add on Chrome or Cateye",
+       "caption": "15 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "55"
+    },
+    {
+     "id": "s:13662507",
+     "name": "Add on Same time service ",
+     "caption": "10 min",
+     "description": null,
+     "price": "from $5",
+     "priceValue": 5,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799605",
+       "name": "Add on Same time service ",
+       "caption": "10 min",
+       "price": "from $5"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "4"
+    },
+    {
+     "id": "s:13662481",
+     "name": "Add on Paraffin wax treatment (Hands)",
+     "caption": "15 min",
+     "description": "Want extra soft/smooth hands... add on parrafin to your manicure!",
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799577",
+       "name": "Add on Paraffin wax treatment (Hands)",
+       "caption": "15 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "3"
+    },
+    {
+     "id": "s:13662035",
+     "name": "Add on Nail design ",
+     "caption": "10 min",
+     "description": "This price is depending on the design and nail tech.",
+     "price": "from $10",
+     "priceValue": 10,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15799076",
+       "name": "Add on Nail design ",
+       "caption": "10 min",
+       "price": "from $10"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "35"
+    }
+   ]
+  },
+  {
+   "id": "2885107",
+   "name": "Artificial Nails (Included Gel Colour and/or Shiny Gel Topcoat)",
+   "items": [
+    {
+     "id": "s:19341960",
+     "name": "Dip It With soak off",
+     "caption": "50 min",
+     "description": null,
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "22186074",
+       "name": "Dip It With soak off",
+       "caption": "50 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "32"
+    },
+    {
+     "id": "s:18160931",
+     "name": "Add on Russian Manicure",
+     "caption": "30 min",
+     "description": null,
+     "price": "$40",
+     "priceValue": 40,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20973586",
+       "name": "Add on Russian Manicure",
+       "caption": "30 min",
+       "price": "$40"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663479",
+     "name": "Apres Gel X Full Set",
+     "caption": "1 hr, 30 min",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "from $70",
+     "priceValue": 70,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800686",
+       "name": "Apres Gel X Full Set",
+       "caption": "1 hr, 30 min",
+       "price": "from $70"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "112"
+    },
+    {
+     "id": "s:17136651",
+     "name": "Apres Gel X Fill",
+     "caption": "1 hr, 10 min",
+     "description": "Gel X nails being filled, not taken off for a new set\nGel X full set can get no more than 2 times fill",
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "19770348",
+       "name": "Apres Gel X Fill",
+       "caption": "1 hr, 10 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "48"
+    },
+    {
+     "id": "s:13665323",
+     "name": "Builder or Liquid Gel Full Set with tip (IBD Gel)",
+     "caption": "1 hr, 30 min",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "$75",
+     "priceValue": 75,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802919",
+       "name": "Builder or Liquid Gel Full Set with tip (IBD Gel)",
+       "caption": "1 hr, 30 min",
+       "price": "$75"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "4"
+    },
+    {
+     "id": "s:18136465",
+     "name": "Builder or Liquid Gel Full Set Overlay (IBD Gel)",
+     "caption": "1 hr, 30 min",
+     "description": "Add on design, if you're wanting more than 1 solid color,",
+     "price": "$70",
+     "priceValue": 70,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "20944706",
+       "name": "Builder or Liquid Gel Full Set Overlay (IBD Gel)",
+       "caption": "1 hr, 30 min",
+       "price": "$70"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "26"
+    },
+    {
+     "id": "s:13665329",
+     "name": "Builder or Liquid Gel Fill (IBD Gel)",
+     "caption": "1 hr, 15 min",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802925",
+       "name": "Builder or Liquid Gel Fill (IBD Gel)",
+       "caption": "1 hr, 15 min",
+       "price": "$60"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "107"
+    },
+    {
+     "id": "s:13663790",
+     "name": "Acrylic Full Set with Tip",
+     "caption": "1 hr, 10 min",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "from $65",
+     "priceValue": 65,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801078",
+       "name": "Acrylic Full Set with Tip",
+       "caption": "1 hr, 10 min",
+       "price": "from $65"
+      }
+     ],
+     "rating": "4.6",
+     "reviews": "8"
+    },
+    {
+     "id": "s:13664114",
+     "name": "Acrylic Full Set Overlay",
+     "caption": "1 hr",
+     "description": null,
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801473",
+       "name": "Acrylic Full Set Overlay",
+       "caption": "1 hr",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663864",
+     "name": "Pink and white full set",
+     "caption": "1 hr, 20 min",
+     "description": null,
+     "price": "from $75",
+     "priceValue": 75,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801160",
+       "name": "Pink and white full set",
+       "caption": "1 hr, 20 min",
+       "price": "from $75"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13677071",
+     "name": "Pink and white Fill ",
+     "caption": "1 hr, 10 min",
+     "description": null,
+     "price": "from $65",
+     "priceValue": 65,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15816423",
+       "name": "Pink and white Fill ",
+       "caption": "1 hr, 10 min",
+       "price": "from $65"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663836",
+     "name": "Acrylic Fill",
+     "caption": "1 hr",
+     "description": "Add on design, if you're wanting more than 1 solid color.",
+     "price": "from $50",
+     "priceValue": 50,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801131",
+       "name": "Acrylic Fill",
+       "caption": "1 hr",
+       "price": "from $50"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "40"
+    }
+   ]
+  },
+  {
+   "id": "2885218",
+   "name": "Children’s Nails",
+   "items": [
+    {
+     "id": "s:13665890",
+     "name": "Kids Express Pedicure ",
+     "caption": "30 min",
+     "description": "10 years old and younger; regular polish included",
+     "price": "$30",
+     "priceValue": 30,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803584",
+       "name": "Kids Express Pedicure ",
+       "caption": "30 min",
+       "price": "$30"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665983",
+     "name": "Kids Unicorn Pedicure",
+     "caption": "30 min",
+     "description": "Under 10 years old; regular polish included",
+     "price": "$50",
+     "priceValue": 50,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803716",
+       "name": "Kids Unicorn Pedicure",
+       "caption": "30 min",
+       "price": "$50"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665944",
+     "name": "Kids Spa Pedicure ",
+     "caption": "35 min",
+     "description": "10 years old and younger; regular polish included",
+     "price": "$50",
+     "priceValue": 50,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803670",
+       "name": "Kids Spa Pedicure ",
+       "caption": "35 min",
+       "price": "$50"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665923",
+     "name": "Kids Classic Mani",
+     "caption": "20 min",
+     "description": "10 years old and younger; regular polish included",
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803638",
+       "name": "Kids Classic Mani",
+       "caption": "20 min",
+       "price": "$20"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "7"
+    },
+    {
+     "id": "s:13665913",
+     "name": "Add on Dazzle Dry or Gel Kids",
+     "caption": "10 min",
+     "description": "10 years old and younger",
+     "price": "$10",
+     "priceValue": 10,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15803622",
+       "name": "Add on Dazzle Dry or Gel Kids",
+       "caption": "10 min",
+       "price": "$10"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "7"
+    }
+   ]
+  },
+  {
+   "id": "1184262",
+   "name": "Waxing",
+   "items": [
+    {
+     "id": "s:13665012",
+     "name": "Lower Leg Wax",
+     "caption": "15 min",
+     "description": null,
+     "price": "$60",
+     "priceValue": 60,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802544",
+       "name": "Lower Leg Wax",
+       "caption": "15 min",
+       "price": "$60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664897",
+     "name": "Nose Wax",
+     "caption": "15 min",
+     "description": null,
+     "price": "$20",
+     "priceValue": 20,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802398",
+       "name": "Nose Wax",
+       "caption": "15 min",
+       "price": "$20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664854",
+     "name": "Full Arm Wax",
+     "caption": "45 min",
+     "description": null,
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802347",
+       "name": "Full Arm Wax",
+       "caption": "45 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664699",
+     "name": "Bikini Line",
+     "caption": "30 min",
+     "description": null,
+     "price": "from $55",
+     "priceValue": 55,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802157",
+       "name": "Bikini Line",
+       "caption": "30 min",
+       "price": "from $55"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664685",
+     "name": "Brazilian Wax",
+     "caption": "1 hr",
+     "description": "Clients that have a (V)",
+     "price": "from $100",
+     "priceValue": 100,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802136",
+       "name": "Brazilian Wax",
+       "caption": "1 hr",
+       "price": "from $100"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664672",
+     "name": "Armpit Wax",
+     "caption": "20 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802121",
+       "name": "Armpit Wax",
+       "caption": "20 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664642",
+     "name": "Full face Wax ",
+     "caption": "45 min",
+     "description": null,
+     "price": "from $50",
+     "priceValue": 50,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802088",
+       "name": "Full face Wax ",
+       "caption": "45 min",
+       "price": "from $50"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664604",
+     "name": "Full bikini Wax",
+     "caption": "30 min",
+     "description": null,
+     "price": "from $80",
+     "priceValue": 80,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802043",
+       "name": "Full bikini Wax",
+       "caption": "30 min",
+       "price": "from $80"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664343",
+     "name": "Chin Wax",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $20",
+     "priceValue": 20,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801732",
+       "name": "Chin Wax",
+       "caption": "15 min",
+       "price": "from $20"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13664321",
+     "name": "Lip Wax",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $15",
+     "priceValue": 15,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801707",
+       "name": "Lip Wax",
+       "caption": "15 min",
+       "price": "from $15"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "10"
+    },
+    {
+     "id": "s:13664296",
+     "name": "Eyebrow Wax",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $30",
+     "priceValue": 30,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15801679",
+       "name": "Eyebrow Wax",
+       "caption": "15 min",
+       "price": "from $30"
+      }
+     ],
+     "rating": "5.0",
+     "reviews": "22"
+    }
+   ]
+  },
+  {
+   "id": "2885596",
+   "name": "Skin",
+   "items": [
+    {
+     "id": "s:21043086",
+     "name": "Add on 30 min facial/neck massage",
+     "caption": "30 min",
+     "description": null,
+     "price": "$50",
+     "priceValue": 50,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24124214",
+       "name": "Add on 30 min facial/neck massage",
+       "caption": "30 min",
+       "price": "$50"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13762702",
+     "name": "Vitamin C Facial",
+     "caption": "1 hr",
+     "description": "For clients who want to have a nice pick me up; leaving your skin bright and refreshed.",
+     "price": "$175",
+     "priceValue": 175,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15913966",
+       "name": "Vitamin C Facial",
+       "caption": "1 hr",
+       "price": "$175"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13762697",
+     "name": "Anti-Aging Facial",
+     "caption": "1 hr",
+     "description": "For the clients who have mature skin, wanting to turn back time.",
+     "price": "$135",
+     "priceValue": 135,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15913961",
+       "name": "Anti-Aging Facial",
+       "caption": "1 hr",
+       "price": "$135"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13667596",
+     "name": "Signature facial",
+     "caption": "1 hr",
+     "description": "First time facial with our esthetician. Learn your skin type and learn a regimen for your skin.",
+     "price": "from $120",
+     "priceValue": 120,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15805584",
+       "name": "Signature facial",
+       "caption": "1 hr",
+       "price": "from $120"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "1184263",
+   "name": "Lashes & Eyebrows",
+   "items": [
+    {
+     "id": "s:23828958",
+     "name": "Cluster/Strip lashes",
+     "caption": "1 hr",
+     "description": "Cluster or strip lashes done by our master tech",
+     "price": "$70",
+     "priceValue": 70,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "27259781",
+       "name": "Cluster/Strip lashes",
+       "caption": "1 hr",
+       "price": "$70"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665296",
+     "name": "Brow Lamination",
+     "caption": "30 min",
+     "description": null,
+     "price": "from $60",
+     "priceValue": 60,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802890",
+       "name": "Brow Lamination",
+       "caption": "30 min",
+       "price": "from $60"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665276",
+     "name": "Eyebrow Tint",
+     "caption": "15 min",
+     "description": null,
+     "price": "from $30",
+     "priceValue": 30,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802868",
+       "name": "Eyebrow Tint",
+       "caption": "15 min",
+       "price": "from $30"
+      }
+     ],
+     "rating": "4.9",
+     "reviews": "17"
+    },
+    {
+     "id": "s:13663638",
+     "name": "Lash lift ",
+     "caption": "35 min",
+     "description": null,
+     "price": "from $65",
+     "priceValue": 65,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800888",
+       "name": "Lash lift ",
+       "caption": "35 min",
+       "price": "from $65"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663627",
+     "name": "Lash tint ",
+     "caption": "30 min",
+     "description": null,
+     "price": "from $45",
+     "priceValue": 45,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800877",
+       "name": "Lash tint ",
+       "caption": "30 min",
+       "price": "from $45"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13663620",
+     "name": "Lash lift and tint",
+     "caption": "1 hr",
+     "description": null,
+     "price": "from $110",
+     "priceValue": 110,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15800864",
+       "name": "Lash lift and tint",
+       "caption": "1 hr",
+       "price": "from $110"
+      }
+     ],
+     "rating": "4.0",
+     "reviews": "4"
+    }
+   ]
+  },
+  {
+   "id": "1184264",
+   "name": "Makeup",
+   "items": [
+    {
+     "id": "s:13665126",
+     "name": "Lash Strip Add on ",
+     "caption": "10 min",
+     "description": null,
+     "price": "$15",
+     "priceValue": 15,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802684",
+       "name": "Lash Strip Add on ",
+       "caption": "10 min",
+       "price": "$15"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665118",
+     "name": "Glam Make Up",
+     "caption": "1 hr, 15 min",
+     "description": null,
+     "price": "$110",
+     "priceValue": 110,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15802676",
+       "name": "Glam Make Up",
+       "caption": "1 hr, 15 min",
+       "price": "$110"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13665112",
+     "name": "Classic Full Face Make Up ",
+     "caption": "1 hr",
+     "description": null,
+     "price": "from $95",
+     "priceValue": 95,
+     "priceType": "STARTS_AT",
+     "variants": [
+      {
+       "id": "15802663",
+       "name": "Classic Full Face Make Up ",
+       "caption": "1 hr",
+       "price": "from $95"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "5407753",
+   "name": "Bridal Makeup",
+   "items": [
+    {
+     "id": "s:21008334",
+     "name": "Bride Makeup Trial",
+     "caption": "2 hr",
+     "description": "Trial makeup at least a week before wedding (in salon)",
+     "price": "$120",
+     "priceValue": 120,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "24084920",
+       "name": "Bride Makeup Trial",
+       "caption": "2 hr",
+       "price": "$120"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "2887661",
+   "name": "Teeth Whitening",
+   "items": [
+    {
+     "id": "s:13677157",
+     "name": "Teeth Whitening",
+     "caption": "25 min",
+     "description": "20 minute service, no sensitivity guarantee, and a shade brighter.",
+     "price": "$100",
+     "priceValue": 100,
+     "priceType": "FIXED",
+     "variants": [
+      {
+       "id": "15918433",
+       "name": "Teeth Whitening",
+       "caption": "25 min",
+       "price": "$100"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "5334240",
+   "name": "Permanent Jewelry",
+   "items": [
+    {
+     "id": "s:20854475",
+     "name": "Free Consultation for Permanent Jewelry ",
+     "caption": "20 min",
+     "description": "Stainless Steel Gold-Plated Collection Tarnish-resistant, hypoallergenic. \nWeld Touch-up free within 30 days.\nBracelet-$40\nAnklet- $50\nNecklace-$70\nRings-$60\nCharms (Add ons)-$10-25",
+     "price": "free",
+     "priceValue": 0,
+     "priceType": "FREE",
+     "variants": [
+      {
+       "id": "23911622",
+       "name": "Free Consultation for Permanent Jewelry ",
+       "caption": "20 min",
+       "price": "free"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  },
+  {
+   "id": "2884773",
+   "name": "Consultation",
+   "items": [
+    {
+     "id": "s:13663987",
+     "name": "Hair color consultation",
+     "caption": "15 min",
+     "description": null,
+     "price": "free",
+     "priceValue": 0,
+     "priceType": "FREE",
+     "variants": [
+      {
+       "id": "15801320",
+       "name": "Hair color consultation",
+       "caption": "15 min",
+       "price": "free"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    },
+    {
+     "id": "s:13658556",
+     "name": "Hair Extension consultation",
+     "caption": "20 min",
+     "description": null,
+     "price": "free",
+     "priceValue": 0,
+     "priceType": "FREE",
+     "variants": [
+      {
+       "id": "15794945",
+       "name": "Hair Extension consultation",
+       "caption": "20 min",
+       "price": "free"
+      }
+     ],
+     "rating": null,
+     "reviews": null
+    }
+   ]
+  }
+ ],
+ "team": [
+  {
+   "id": "2771882",
+   "name": "Milly",
+   "jobTitle": "Master Stylist",
+   "avatar": "https://cdn-partners-api.fresha.com/employee-avatars/processed/412213/medium/2866e7bd-5b1c-4359-ae4b-5f74c7326fe7-IMG_7534.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "3504413",
+   "name": "Elisha",
+   "jobTitle": "Elisha Full Service Stylist @ Tipsy Salon",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/710489/medium/14adc71b-2a62-43a4-953e-188adf7e14d1-3FFBDA07-CDEC-4005-AFB6-15EF6BC7CBEB.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "4763342",
+   "name": "Sorivel",
+   "jobTitle": "Master Stylist",
+   "avatar": "https://cdn-partners-api.fresha.com/employee-avatars/processed/1496797/medium/492cc79a-4934-4011-9b76-6a5bfe44fec5-IMG_8547.png",
+   "rating": 4.9
+  },
+  {
+   "id": "4956421",
+   "name": "Karen",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/1938313/medium/0bdbbb28-1342-45ee-9d87-452d9f498832-IMG_9599.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "2771863",
+   "name": "Veronica",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/423910/medium/41b2b09c-8ad3-46d7-a60a-39ef54b0269b-IMG_2983.png",
+   "rating": 5
+  },
+  {
+   "id": "2771877",
+   "name": "Luna",
+   "jobTitle": "Nail Tech",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/432782/medium/786d80ab-ef7c-4144-b9f5-acac0ae411aa-IMG_4236.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "3383419",
+   "name": "Keyla",
+   "jobTitle": "Nail Tech",
+   "avatar": "https://cdn-partners-api.fresha.com/employee-avatars/processed/435646/medium/399cdab5-e4b9-49fd-a126-99437dc626f0-IMG_5920.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "4857059",
+   "name": "Chavely",
+   "jobTitle": "Nails Tech",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2237188/medium/d923b33e-84c6-45ca-836a-9e1f4ba5b300-348A7D4D-391A-4A71-816B-4BA2FCD998F2.png",
+   "rating": 4.9
+  },
+  {
+   "id": "4877949",
+   "name": "Alexandra",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/1985976/medium/1ad655c9-09de-4960-b568-297dbb3eea69-IMG_2998.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "2771869",
+   "name": "Shonny",
+   "jobTitle": "Manicurist",
+   "avatar": "https://cdn-partners-api.fresha.com/employee-avatars/processed/369948/medium/7e1ebdd0-f515-4aad-bd81-383de0c81842-shonny.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "2829759",
+   "name": "Tiffany",
+   "jobTitle": "Nail Tech",
+   "avatar": "https://cdn-partners-api.fresha.com/employee-avatars/processed/369951/medium/4054184c-8cfc-46bc-9fcc-9947866e2e74-5A46045B-0274-439E-9891-6008C3F889CB.jpeg",
+   "rating": 4.9
+  },
+  {
+   "id": "3478768",
+   "name": "jade",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2196005/medium/2d5050e4-5bf6-4e59-8211-777ef9e3ac4a-Tezza-5529.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5022637",
+   "name": "LizMarie",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/1974481/medium/60911d95-da17-4fb9-a632-0287e7a41e8f-1000121239.jpg",
+   "rating": 4.8
+  },
+  {
+   "id": "5039929",
+   "name": "Lianny",
+   "jobTitle": "Nail Technician",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/1973363/medium/287188e5-318f-4821-b233-c4ac7be2ec26-IMG_5218.jpeg",
+   "rating": 4.9
+  },
+  {
+   "id": "5105553",
+   "name": "Ann",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2002674/medium/56c87021-d7e7-4553-a53a-e2eee61af2e6-IMG_5223.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5040142",
+   "name": "Kazumi",
+   "jobTitle": "Nail Tech",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/1973715/medium/d53434f4-80e3-4bbb-b543-0564fa236174-CBST0921.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5158404",
+   "name": "Air",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2211490/medium/fc287015-5856-4174-a913-06355fb3c402-IMG_1863.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5158552",
+   "name": "Olivia",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2213641/medium/521438f7-32de-46ed-964b-6777492ea382-IMG_1534.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5249784",
+   "name": "Dani",
+   "jobTitle": "Nail Technician",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2212282/medium/f494a4b0-484d-45aa-b6e9-70a47df97519-IMG_8693.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5399228",
+   "name": "Violet",
+   "jobTitle": "Nail Technician",
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2187561/medium/06e38fcb-6dfa-44b2-83b0-5099de7a86af-IMG_0120.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "5482804",
+   "name": "Ninah",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2223648/medium/ba606c71-88c2-4df1-ade1-304f60b23079-IMG_4510.jpeg",
+   "rating": null
+  },
+  {
+   "id": "4538781",
+   "name": "kassandra",
+   "jobTitle": null,
+   "avatar": "https://cdn-partners-api.fresha.com/user-account-avatars/processed/2226343/medium/e8f4ac32-0933-4946-974d-39f5ed0726ee-24E4884D-934C-431D-95E3-8524E7BEFE48.jpeg",
+   "rating": 5
+  },
+  {
+   "id": "3387851",
+   "name": "Tin",
+   "jobTitle": "Nail Tech",
+   "avatar": null,
+   "rating": 5
+  }
+ ],
+ "reviews": {
+  "total": "1,306",
+  "breakdown": {
+   "1": 1,
+   "2": 0,
+   "3": 8,
+   "4": 21,
+   "5": 1276
+  },
+  "items": [
+   {
+    "id": "01a0257d-58b9-79f2-88ff-5bcb1467d0fd",
+    "rating": 5,
+    "text": "Chavely is always so gentle and the nails are perfection 🩷💜",
+    "date": "Fri, Aug 21, 2026 at 2:02 PM",
+    "author": "lindsay a",
+    "initials": "LA",
+    "avatar": "https://images.fresha.com/marketplace-user-avatars/avatars/55871737/full/unnamed.png?class=marketplace-user-avatar-medium&v=63944341525",
+    "footer": "3 days ago  •  5 services  •  with Chavely"
+   },
+   {
+    "id": "01a021f6-5e0e-717b-a473-1f4ae18e28a2",
+    "rating": 5,
+    "text": "Amazing.",
+    "date": "Thu, Aug 20, 2026 at 9:36 PM",
+    "author": "Millie T",
+    "initials": "MT",
+    "avatar": "https://images.fresha.com/marketplace-user-avatars/avatars/55209239/full/unnamed.png?class=marketplace-user-avatar-medium&v=63942469516",
+    "footer": "4 days ago  •  3 services  •  with Luna"
+   },
+   {
+    "id": "01a01bd9-6392-70f3-89bc-9a7a7ae23dd7",
+    "rating": 5,
+    "text": "I very much enjoyed my spa pedicure and manicure with Luna today.  My first nail\nappointment at Tipsy.",
+    "date": "Wed, Aug 19, 2026 at 5:07 PM",
+    "author": "Sarah J",
+    "initials": "SJ",
+    "avatar": null,
+    "footer": "5 days ago  •  3 services  •  with Luna"
+   },
+   {
+    "id": "01a01786-4923-7a4e-bf8f-5f543245ce71",
+    "rating": 5,
+    "text": "Friendly and attentive service.  Relaxing atmosphere.  Clean and comfortable.",
+    "date": "Tue, Aug 18, 2026 at 8:57 PM",
+    "author": "Sarah G",
+    "initials": "SG",
+    "avatar": "https://images.fresha.com/marketplace-user-avatars/avatars/33944625/full/unnamed.png?class=marketplace-user-avatar-medium&v=63932708642",
+    "footer": "6 days ago  •  Express Pedicure  •  with Olivia"
+   },
+   {
+    "id": "01a0163b-cd6c-7b12-baac-9e40d0bfa472",
+    "rating": 5,
+    "text": "The Tipsy team and my nail tech Tiffany are amazing 💗it feels like family🥰",
+    "date": "Tue, Aug 18, 2026 at 2:56 PM",
+    "author": "Beth C",
+    "initials": "BC",
+    "avatar": "https://images.fresha.com/marketplace-user-avatars/avatars/24578139/full/profilepic?class=marketplace-user-avatar-medium&v=63845183874",
+    "footer": "6 days ago  •  4 services  •  with 2 professionals"
+   },
+   {
+    "id": "01a007f6-3f65-75fc-b24f-5cf748082a74",
+    "rating": 5,
+    "text": "Shonny was amazing very sweet and professional!! Excellent work !! Will definitely be coming again !!!",
+    "date": "Sat, Aug 15, 2026 at 8:26 PM",
+    "author": "Concetta C",
+    "initials": "CC",
+    "avatar": null,
+    "footer": "1 week ago  •  4 services  •  with Shonny"
+   }
+  ]
+ },
+ "portfolio": {
+  "total": 123,
+  "remaining": 114,
+  "items": [
+   {
+    "id": "84716",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/d8b412b4-41f6-40e4-9114-acc56432a906.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=M7PJ6vtX3IK/Xc+eQSadivmKx8s",
+    "alt": "Elegant gel nail art with floral designs in soft pastel hues at Tipsy Salonbar Naples in Naples, Florida, US",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84722",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/0344e0e5-98b9-412f-af6c-7ce518bcd163.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=Mmdne79u0e3hfvqCOSccWNvgB4g",
+    "alt": "Elegant gel nail art with intricate designs and gemstones at Tipsy Salonbar Naples in Naples, Florida, US",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84721",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/97913b87-04fe-4238-bd01-b45c97dd2636.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=iAmBZD0cle2xIu3jHP84ycja0xI",
+    "alt": "Tipsy Salonbar Naples presents vibrant gel nail art with bold geometric patterns and a gradient finish.",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84718",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/83467ab9-13ff-4a74-9e2a-79df4d5e529a.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=2nxQzbSyXOf41Xv2tdWJ7ud1avE",
+    "alt": "Elegant gel nail art with gold accents and clear stones, Tipsy Salonbar Naples, Naples, Florida, US.",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84717",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/4f95f5ad-d1c6-4e66-9e0b-15de933e4a88.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=/uhccE/uB5MA1bcqteiYhQehvMk",
+    "alt": "Elegant floral acrylic nails with glitter and bees, showcasing Tipsy Salonbar Naples' nail art in Naples, Florida, US.",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84720",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/90ed34fc-776a-4f7b-a70b-6ad998e7a8ac.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=CRW4NO5PQ3V81othzuowfF2W6CQ",
+    "alt": "Elegant acrylic nails with black and white floral designs and gold accents by Tipsy Salonbar Naples in Naples, Florida, US",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84719",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/d7180f8c-5d4f-4d67-863b-174bba992786.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=CPPGjBIq73uZZ4v1ImQ4B9pFigw",
+    "alt": "Pastel gel nails with star designs, showcasing a modern and elegant manicure at Tipsy Salonbar Naples in Naples, Florida, US.",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "84723",
+    "url": "https://images.fresha.com/partner-portfolios/providers/453565/3d257456-544b-432f-a0ba-632d947a881c.jpeg?class=square512&dpr=1&keyId=rl8WOyy9WOMLne9A&signature=S/3HasV1NRxTBYnZ0087Rg1cfCI",
+    "alt": "Elegant white and clear acrylic nails with swirls at Tipsy Salonbar Naples in Naples, Florida, US.",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "id": "50498",
+    "url": "https://images.fresha.com/professional-profiles/profile/4516098/1fb62a3c-0658-4f6b-bb53-b1177a0a866e.jpeg?class=square512&dpr=1&keyId=jAiIM9eJuff1x3CF&signature=2Bf7CIciXb4dBcKs14tyh8tZCPs",
+    "alt": "",
+    "width": 1125,
+    "height": 1107
+   }
+  ]
+ },
+ "features": [
+  {
+   "id": "pet_friendly",
+   "label": "Pet-friendly",
+   "icon": "https://www.fresha.com/_icons/icon/DogIcon.svg?size=m&color=neutral&hash=1fd470dad30e6ee20bb16ea534fb0c05&locale=en-US"
+  },
+  {
+   "id": "wheelchair_accessible",
+   "label": "Wheelchair accessible",
+   "icon": "https://www.fresha.com/_icons/icon/WheelchairIcon.svg?size=m&color=neutral&hash=039f3ec16463b6844e9067d265871ea9&locale=en-US"
+  },
+  {
+   "id": "parking_available",
+   "label": "Parking available",
+   "icon": "https://www.fresha.com/_icons/icon/CarIcon.svg?size=m&color=neutral&hash=f70c49fede02fa9b95f03286591c6d9b&locale=en-US"
+  },
+  {
+   "id": "environmentally_friendly",
+   "label": "Environmentally friendly",
+   "icon": null
+  },
+  {
+   "id": "lgbtq+",
+   "label": "LGBTQ+",
+   "icon": null
+  },
+  {
+   "id": "woman_owned",
+   "label": "Woman-owned",
+   "icon": null
+  },
+  {
+   "id": "asian_owned",
+   "label": "Asian-owned",
+   "icon": null
+  }
+ ],
+ "relatedLandingPages": [
+  {
+   "links": [
+    {
+     "name": "Hair Salons",
+     "url": "https://www.fresha.com/lp/en/bt/hair-salons/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Beauty Salons",
+     "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Consultations",
+     "url": "https://www.fresha.com/lp/en/tt/salon-hair-consultations/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Face Waxing",
+     "url": "https://www.fresha.com/lp/en/tt/face-waxing/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Coloring",
+     "url": "https://www.fresha.com/lp/en/tt/hair-colouring/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Treatments",
+     "url": "https://www.fresha.com/lp/en/tt/hair-treatments/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Colouring Highlights",
+     "url": "https://www.fresha.com/lp/en/tt/hair-colouring-highlights/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Brazilian Wax",
+     "url": "https://www.fresha.com/lp/en/tt/brazilian-waxing/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Gel Nails",
+     "url": "https://www.fresha.com/lp/en/tt/gel-nails/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Keratin Treatments",
+     "url": "https://www.fresha.com/lp/en/tt/keratin-treatments/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Balayage Hair Colouring",
+     "url": "https://www.fresha.com/lp/en/tt/balayage-hair-colouring/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Manicures",
+     "url": "https://www.fresha.com/lp/en/tt/manicures/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Massages",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Nail Salons",
+     "url": "https://www.fresha.com/lp/en/bt/nail-salons/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Extensions",
+     "url": "https://www.fresha.com/lp/en/tt/hair-extensions/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Leg Waxing",
+     "url": "https://www.fresha.com/lp/en/tt/leg-waxing/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Waxing Salons",
+     "url": "https://www.fresha.com/lp/en/bt/waxing-salons/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Hair Styling",
+     "url": "https://www.fresha.com/lp/en/tt/hair-styling/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Eyebrow Shaping",
+     "url": "https://www.fresha.com/lp/en/tt/eyebrow-shaping/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Permanent Hair Straightening",
+     "url": "https://www.fresha.com/lp/en/tt/permanent-hair-straightening/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Men's Haircuts",
+     "url": "https://www.fresha.com/lp/en/tt/men's-haircuts/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Bikini Wax",
+     "url": "https://www.fresha.com/lp/en/tt/bikini-waxing/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Blow Dries",
+     "url": "https://www.fresha.com/lp/en/tt/blow-dries-and-blowouts/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Facials",
+     "url": "https://www.fresha.com/lp/en/tt/facials/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Nail Extensions",
+     "url": "https://www.fresha.com/lp/en/tt/nail-extensions/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Lash Lifts",
+     "url": "https://www.fresha.com/lp/en/tt/lash-lifts/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Eyebrow Wax",
+     "url": "https://www.fresha.com/lp/en/tt/eyebrow-waxing/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Spas & Saunas",
+     "url": "https://www.fresha.com/lp/en/bt/spas/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Lash Lift and Tint Treatments",
+     "url": "https://www.fresha.com/lp/en/tt/lash-lift-and-tint-treatments/in/us-bonita-springs/naples"
+    },
+    {
+     "name": "Eyebrow Tinting",
+     "url": "https://www.fresha.com/lp/en/tt/eyebrow-tinting/in/us-bonita-springs/naples"
+    }
+   ],
+   "sectionName": "Other businesses in Naples"
+  },
+  {
+   "links": [
+    {
+     "name": "Massages in Naples Bath and Tennis Club",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/naples-bath-and-tennis-club"
+    },
+    {
+     "name": "Massages in Park Shore",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Beauty Salons in Moorings",
+     "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/moorings"
+    },
+    {
+     "name": "Facials in Sun Terrace",
+     "url": "https://www.fresha.com/lp/en/tt/facials/in/us-bonita-springs/sun-terrace"
+    },
+    {
+     "name": "Facials in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/facials/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Hair Salons in Moorings",
+     "url": "https://www.fresha.com/lp/en/bt/hair-salons/in/us-bonita-springs/moorings"
+    },
+    {
+     "name": "Beauty Salons in Central Naples",
+     "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Brazilian Wax in Central Naples",
+     "url": "https://www.fresha.com/lp/en/tt/brazilian-waxing/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Massages in Moorings",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/moorings"
+    },
+    {
+     "name": "Massages in Sun Terrace",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/sun-terrace"
+    },
+    {
+     "name": "Face Waxing in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/face-waxing/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Massages in Central Naples",
+     "url": "https://www.fresha.com/lp/en/bt/massage/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Brazilian Wax in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/brazilian-waxing/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Facials in Moorings",
+     "url": "https://www.fresha.com/lp/en/tt/facials/in/us-bonita-springs/moorings"
+    },
+    {
+     "name": "Beauty Salons in Park Shore",
+     "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Beauty Salons in Park West",
+     "url": "https://www.fresha.com/lp/en/bt/beauty-salons/in/us-bonita-springs/park-west"
+    },
+    {
+     "name": "Face Waxing in Central Naples",
+     "url": "https://www.fresha.com/lp/en/tt/face-waxing/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Facials in Central Naples",
+     "url": "https://www.fresha.com/lp/en/tt/facials/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Dermaplaning in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/dermaplaning/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Makeup Artists in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/makeup-artists/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Hair Salons in Park Shore",
+     "url": "https://www.fresha.com/lp/en/bt/hair-salons/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Spas & Saunas in Park Shore",
+     "url": "https://www.fresha.com/lp/en/bt/spas/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Eyebrow Tinting in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/eyebrow-tinting/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Hair Treatments in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/hair-treatments/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Hair Coloring in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/hair-colouring/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Therapeutic Massages in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/therapeutic-massages/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Hair Salons in Central Naples",
+     "url": "https://www.fresha.com/lp/en/bt/hair-salons/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Manicures in Park Shore",
+     "url": "https://www.fresha.com/lp/en/tt/manicures/in/us-bonita-springs/park-shore"
+    },
+    {
+     "name": "Spas & Saunas in Central Naples",
+     "url": "https://www.fresha.com/lp/en/bt/spas/in/us-bonita-springs/central-naples"
+    },
+    {
+     "name": "Manicures in Park West",
+     "url": "https://www.fresha.com/lp/en/tt/manicures/in/us-bonita-springs/park-west"
+    }
+   ],
+   "sectionName": "Other businesses around Naples"
+  }
+ ],
+ "nearby": [
+  {
+   "href": "/a/paola-castillo-beauty-essential-llc-naples-4060-tamiami-trail-north-gq5wqf6a",
+   "image": "https://images.fresha.com/locations/location-profile-images/2705982/5813073/d49f8240-67ca-49a0-8aff-5c4386a881ff-PaolaCastilloBeautyEssentialLLC-US-Florida-Naples-CentralNaples-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "Paola Castillo Beauty Essential LLC",
+   "verified": true,
+   "location": "Central Naples, Naples",
+   "meta": "Other • 62 reviews",
+   "rating": "5.0",
+   "deals": false
+  },
+  {
+   "href": "/a/holistic-nails-naples-4757-tamiami-trail-north-y0kq4e6r",
+   "image": "https://images.fresha.com/locations/location-profile-images/724872/2149099/89817a70-79c7-4edf-9cbf-f61be53de5f2-HolisticNails-US-Florida-Naples-ParkShore-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "Holistic Nails",
+   "verified": false,
+   "location": "Park Shore, Naples",
+   "meta": "Nails",
+   "rating": null,
+   "deals": true
+  },
+  {
+   "href": "/a/naples-healing-arts-naples-801-anchor-rode-drive-204b-g6d7ka25",
+   "image": "https://images.fresha.com/locations/location-profile-images/1316992/4700298/46b69bad-e2ef-45f4-8f2f-9ecd22b661d2-NaplesHealingArts-US-Florida-Naples-ParkShore-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "Relaxing therapy room at Naples Healing Arts in Naples, Florida, US with massage table and calming decor.",
+   "name": "Naples Healing Arts",
+   "verified": true,
+   "location": "Park Shore, Naples",
+   "meta": "Massage • 28 reviews",
+   "rating": "5.0",
+   "deals": false
+  },
+  {
+   "href": "/a/praha-spa-and-salt-naples-4962-tamiami-trail-north-6lcendrz",
+   "image": "https://images.fresha.com/locations/location-profile-images/450366/4721803/b346764a-350c-4d15-b764-f4384f0909d4.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "Cozy salt room at Praha Spa and Salt, Naples, Florida, US with warm lighting and relaxation chairs.",
+   "name": "Praha Spa and Salt",
+   "verified": true,
+   "location": "Central Naples, Naples",
+   "meta": "Spa & sauna • 2,651 reviews",
+   "rating": "4.9",
+   "deals": false
+  },
+  {
+   "href": "/a/spa-naples-facial-massage-naples-3811-airport-pulling-road-north-amgqa83b",
+   "image": "https://images.fresha.com/locations/location-profile-images/329718/2733692/f9abf48e-3a5b-4a4c-9bff-1bc0cbfd1114.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "Spa Naples Facial & Massage",
+   "verified": true,
+   "location": "Central Naples, Naples",
+   "meta": "Spa & sauna • 33 reviews",
+   "rating": "5.0",
+   "deals": false
+  },
+  {
+   "href": "/a/cupping-for-wellness-naples-3699-airport-pulling-road-north-cpy4t8e5",
+   "image": "https://images.fresha.com/locations/location-profile-images/690824/1861930/001c0fe7-9ca7-4990-9f67-74a254f90f76-CuppingforWellness-US-Florida-Naples-CentralNaples-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "Cupping for Wellness",
+   "verified": false,
+   "location": "Central Naples, Naples",
+   "meta": "Massage • 1 review",
+   "rating": "5.0",
+   "deals": false
+  },
+  {
+   "href": "/a/gauxhair-naples-fl-location-only-naples-6424-naples-boulevard-lm7y9q7k",
+   "image": "https://images.fresha.com/locations/location-profile-images/839339/2628142/9072a195-f29e-4b06-802b-806e5c044733-GAUXHAIRNaplesFLLocationONLY-US-Florida-Naples-ParkShore-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "GAUXHAIR (Naples, FL Location ONLY)",
+   "verified": true,
+   "location": "North Naples, Naples",
+   "meta": "Hair Salon • 17 reviews",
+   "rating": "4.9",
+   "deals": false
+  },
+  {
+   "href": "/a/salon-lusso-of-naples-naples-1191-1st-avenue-south-slaaqor0",
+   "image": "https://images.fresha.com/locations/location-profile-images/1206098/1856483/4fb6ab7b-e4c3-4310-a12e-83720be6a5d9-SalonLusso-US-Florida-Naples-RedevelopmentArea-Fresha.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "Modern interior of Salon Lusso of Naples, featuring stylish chairs and lighting in Naples, Florida, US.",
+   "name": "Salon Lusso of Naples",
+   "verified": true,
+   "location": "Redevelopment Area, Naples",
+   "meta": "Hair Salon • 485 reviews",
+   "rating": "5.0",
+   "deals": false
+  },
+  {
+   "href": "/a/tru-brilliance-a-paul-mitchell-focus-salon-naples-10611-tamiami-trail-north-pbe30xrk",
+   "image": "https://images.fresha.com/locations/location-profile-images/35574/1138466/3d1a44e2-c138-47de-8691-9e4c72f9af80.jpg?f_noindex=t&f_width=1920&f_quality=75",
+   "alt": "",
+   "name": "Tru Brilliance a Paul Mitchell Focus Salon",
+   "verified": true,
+   "location": "Naples Park, Naples",
+   "meta": "Beauty Salon • 1,074 reviews",
+   "rating": "5.0",
+   "deals": false
+  }
+ ]
+}

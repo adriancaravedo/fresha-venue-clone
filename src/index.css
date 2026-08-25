@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --page-gutter: 16px;
+  }
+
+  @media (min-width: 768px) {
+    :root {
+      --page-gutter: 32px;
+    }
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* the sticky section nav is 52px tall + the 72px topbar */
+    scroll-padding-top: 124px;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-surface-page font-sans text-body-m text-fg antialiased;
+    margin: 0;
+  }
+
+  button {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  ul,
+  ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
+    margin: 0;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid theme('colors.line');
+    margin: 0;
+  }
+}
+
+@layer components {
+  /* horizontal rails: scrollable, no visible scrollbar */
+  .rail {
+    @apply flex overflow-x-auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .rail::-webkit-scrollbar {
+    display: none;
+  }
+
+  .sr-only-text {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  /* clamp helpers used by review text + about copy */
+  .clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .clamp-4 {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
